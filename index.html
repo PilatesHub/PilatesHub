@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+
+  <title>PilatesHub</title>
+</head>
+<body>
+  <header>
+    <h1 class="h1">Welcome to PilatesHub</h1>
+    <p>Base de Dados de Exercícios de Pilates</p>
+  </header>
+  <main>
+    <section>
+      <input type="text" placeholder="Digite o nome do exercício ou o aparelho ou o nível" id="campo-pesquisa">
+      <button onclick="pesquisar()">Pesquisar</button>
+    </section>
+    <section class="resultados-pesquisa" id="resultados-pesquisa">
+    </section>
+    <div class="video-container hidden">
+        <video class="hidden" poster="imagens/${dado.imagem}" controls>
+        </video>
+      </div>
+  </main>
+  <script src="dados.js"></script>
+  <script src="app.js"></script>
+  <script>
+    function playVideo(event) {
+      event.target.play();
+    }
+  </script>
+</body>
+</html>
