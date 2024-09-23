@@ -26,14 +26,13 @@ function pesquisar() {
         resultados += `
         <div class="item-resultado">
           <h2>
-            <a href="#" target="_bank">${dado.nome}</a>
+            ${dado.nome}
           </h2>
-          <a href="${dado.link}" target= "_blank">
-     <video poster="imagens/${dado.imagem}" controls>
-            <source src="videos/${dado.video}" type="video/mp4">
-            Seu navegador não suporta o elemento de vídeo.
-        </video>
-   </a>
+          <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/${dado.link}" 
+              title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+            </iframe>
+          </div>
           <p class="descricao">${dado.descricao}</p>
           <p class="nivel">${dado.nivel}</p>
           <p class="local">${dado.local}</p>
@@ -52,9 +51,9 @@ function pesquisar() {
     mostrarVideo();
 }
 
-function mostrarVideo() {
-  const videos = document.querySelectorAll('video.hidden');
-  videos.forEach(video => {
-    video.classList.remove('hidden');
-  });
-}
+// function mostrarVideo() {
+//   const videos = document.querySelectorAll('video.hidden');
+//   videos.forEach(video => {
+//     video.classList.remove('hidden');
+//   });
+// }

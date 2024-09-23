@@ -6,7 +6,7 @@ let dados = [
         local: "Local: Solo",
         musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril"],
         imagem: "roll_up.jpg",
-        link: "https://www.youtube.com/watch?v=FZNwIJ03fhQ",
+        link: "FZNwIJ03fhQ",
         video: "roll_up.mp4"
       },
       {
@@ -16,7 +16,7 @@ let dados = [
         local: "Local: Solo",
         musculosTrabalhados: ["Músculos: abdominais", " oblíquos", " flexores do quadril"],
         imagem: "single_straight_leg_stretch.jpg",
-        link: "https://www.youtube.com/watch?v=uIdc2jmlD7k",
+        link: "uIdc2jmlD7k",
         video: "single_straight_leg_stretch.mp4"
       },
       {
@@ -26,7 +26,7 @@ let dados = [
         local: "Local: Solo",
         musculosTrabalhados: ["Músculos: abdominais", " oblíquos", " flexores do quadril"],
         imagem: "double_straight_leg_stretch.jpg",
-        link: "https://www.youtube.com/watch?v=MRzMheJcPJ8",
+        link: "MRzMheJcPJ8",
         video: "double_straight_leg_stretch.mp4"
       },
       {
@@ -36,7 +36,7 @@ let dados = [
         local: "Local: Solo",
         musculosTrabalhados: ["Músculos: isquiotibiais", " glúteos", " eretores da espinha"],
         imagem: "shell_stretch.jpg",
-        link: "https://www.youtube.com/watch?v=7zsKsz4uQe4",
+        link: "7zsKsz4uQe4",
         video: "shell_stretch.mp4"
       },
       {
@@ -46,7 +46,7 @@ let dados = [
         local: "Local: Solo",
         musculosTrabalhados: ["Músculos: Abdômen", " músculos respiratórios", " quadríceps"],
         imagem: "the_hundred.jpg",
-        link: "https://www.youtube.com/watch?v=UaqpuUzs1i8&t=21s",
+        link: "UaqpuUzs1i8&t=21s",
         video: "the_hundred.mp4"
         },
         {
@@ -56,7 +56,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " quadríceps"],
           imagem: "half_roll_down.jpg",
-          link: "https://www.youtube.com/watch?v=zTqCd39YcbE",
+          link: "zTqCd39YcbE",
           video: "half_roll_down.mp4"
           },
           {
@@ -66,7 +66,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " abdômen", " músculos da coluna"],
           imagem: "pelvic_curl.jpg",
-          link: "https://www.youtube.com/watch?v=gE018HYqqEM",
+          link: "gE018HYqqEM",
           video: "pelvic_curl.mp4"
           },
           {
@@ -76,7 +76,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " quadríceps"],
           imagem: "single_leg_stretch.jpg",
-          link: "https://www.youtube.com/watch?v=IdsOhji7Hjg",
+          link: "IdsOhji7Hjg",
           video: "single_leg_stretch.mp4"
           },
           {
@@ -86,7 +86,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " quadríceps"],
           imagem: "double_leg_stretch.jpg",
-          link: "https://www.youtube.com/watch?v=N-jZas9tMSU&t=33s",
+          link: "N-jZas9tMSU&t=33s",
           video: "double_leg_stretch.mp4"
           },
           {
@@ -96,7 +96,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " quadríceps", "isquiotibiais"],
           imagem: "scissors.jpg",
-          link: "https://www.youtube.com/watch?v=CO9_19vfCf4",
+          link: "CO9_19vfCf4",
           video: "scissors.mp4"
           },
           {
@@ -106,7 +106,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " adutores e abdutores do quadril"],
           imagem: "leg_circles.jpg",
-          link: "https://www.youtube.com/watch?v=RZqtVL6K8DM",
+          link: "RZqtVL6K8DM",
           video: "leg_circles.mp4"
           },
           {
@@ -116,7 +116,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril"],
           imagem: "rolling_like_a_ball.jpg",
-          link: "https://www.youtube.com/watch?v=elkcXFPyaW8",
+          link: "elkcXFPyaW8",
           video: "rolling_like_a_ball.mp4"
           },
           {
@@ -126,7 +126,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Paravertebrais", " abdômen", " isquiotibiais"],
           imagem: "spine_stretch_forward.jpg",
-          link: "https://www.youtube.com/watch?v=yso-Y3Ik2BM",
+          link: "yso-Y3Ik2BM",
           video: "spine_stretch_forward.mp4"
           },
           {
@@ -136,7 +136,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Isquiotibiais", " glúteos", " abdômen"],
           imagem: "single_leg_kick.jpg",
-          link: "https://www.youtube.com/watch?v=X79gMUknrVs",
+          link: "X79gMUknrVs",
           video: "single_leg_kick.mp4"
           },
           {
@@ -146,7 +146,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Abdutores do quadril", " glúteos"],
           imagem: "side_lying_leg_lifts.jpg",
-          link: "https://www.youtube.com/watch?v=sAamLbKW-Zc",
+          link: "sAamLbKW-Zc",
           video: "side_lying_leg_lifts.mp4"
           },
           {
@@ -156,7 +156,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Paravertebrais", "glúteos", "abdômen"],
           imagem: "swan_prep.jpg",
-          link: "https://www.youtube.com/watch?v=Ab4eTe2R8z4",
+          link: "Ab4eTe2R8z4",
           video: "swan_prep.mp4"
           },
           {
@@ -166,7 +166,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Paravertebrais", "ombros", "glúteos"],
           imagem: "breast_stroke_prep.jpg",
-          link: "https://www.youtube.com/watch?v=AwhZnmJZB_Q",
+          link: "AwhZnmJZB_Q",
           video: "breast_stroke_prep.mp4"
           },
           {
@@ -176,7 +176,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " paravertebrais"],
           imagem: "shoulder_bridge.jpg",
-          link: "https://www.youtube.com/watch?v=jCSfXZToPCI",
+          link: "jCSfXZToPCI",
           video: "shoulder_bridge.mp4"
           },
           {
@@ -186,7 +186,7 @@ let dados = [
           local: "Local: Solo",
           musculosTrabalhados: ["Músculos: Paravertebrais", " abdômen", " músculos profundos da coluna"],
           imagem: "cat_stretch.jpg",
-          link: "https://www.youtube.com/watch?v=l0-VbgSvdhs",
+          link: "l0-VbgSvdhs",
           video: "cat_stretch.mp4"
           },
           {
@@ -196,7 +196,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " flexores do quadril"],
             imagem: "criss_cross.jpg",
-            link: "https://www.youtube.com/watch?v=gzaCxDVQL90",
+            link: "gzaCxDVQL90",
             video: "criss_cross.mp4"
             },
             {
@@ -206,7 +206,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril"],
             imagem: "open_leg_rocker.jpg",
-            link: "https://www.youtube.com/watch?v=ZbtEw_pcPp4",
+            link: "ZbtEw_pcPp4",
             video: "open_leg_rocker.mp4"
             },
             {
@@ -216,7 +216,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Isquiotibiais", " glúteos", " paravertebrais"],
             imagem: "double_leg_kick.jpg",
-            link: "https://www.youtube.com/watch?v=eQgIt5Ikb1g",
+            link: "eQgIt5Ikb1g",
             video: "double_leg_kick.mp4"
             },
             {
@@ -226,7 +226,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " paravertebrais"],
             imagem: "shoulder_bridge.jpg",
-            link: "https://www.youtube.com/watch?v=jCSfXZToPCI&t=17s",
+            link: "jCSfXZToPCI&t=17s",
             video: "shoulder_bridge.mp4"
             },
             {
@@ -236,7 +236,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdutores e adutores do quadril", " glúteos"],
             imagem: "side_kick_series.jpg",
-            link: "https://www.youtube.com/watch?v=nG9JfDHJJlY",
+            link: "nG9JfDHJJlY",
             video: "side_kick_series.mp4"
             },
             {
@@ -246,7 +246,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " ombros"],
             imagem: "swimming.jpg",
-            link: "https://www.youtube.com/watch?v=bY6ZyiO_7ek",
+            link: "bY6ZyiO_7ek",
             video: "swimming.mp4"
             },
             {
@@ -256,7 +256,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril"],
             imagem: "seal.jpg",
-            link: "https://www.youtube.com/watch?v=G5zO03AJlwU",
+            link: "G5zO03AJlwU",
             video: "seal.mp4"
             },
             {
@@ -266,7 +266,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " paravertebrais"],
             imagem: "teaser.jpg",
-            link: "https://www.youtube.com/watch?v=UJ5gZQSqlXo",
+            link: "UJ5gZQSqlXo",
             video: "teaser.mp4"
             },
             {
@@ -276,7 +276,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " quadríceps", " músculos do ombro"],
             imagem: "leg_pull_front.jpg",
-            link: "https://www.youtube.com/watch?v=fLYsUbi_f-A",
+            link: "fLYsUbi_f-A",
             video: "leg_pull_front.mp4"
             },
             {
@@ -286,7 +286,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " paravertebrais", " tríceps"],
             imagem: "leg_pull_back.jpg",
-            link: "https://www.youtube.com/watch?v=f_gzE5tOPQw",
+            link: "f_gzE5tOPQw",
             video: "leg_pull_back.mp4"
             },
             {
@@ -296,7 +296,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " oblíquos"],
             imagem: "hip_circles.jpg",
-            link: "https://www.youtube.com/watch?v=dN1elhfKzYo",
+            link: "dN1elhfKzYo",
             video: "hip_circles.mp4"
             },
             {
@@ -306,7 +306,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril", " glúteos"],
             imagem: "jackknife.jpg",
-            link: "https://www.youtube.com/watch?v=OA1MloQcPu0",
+            link: "OA1MloQcPu0",
             video: "jackknife.mp4"
             },
             {
@@ -316,7 +316,7 @@ let dados = [
             local: "Local: Solo",
             musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " isquiotibiais"],
             imagem: "saw.jpg",
-            link: "https://www.youtube.com/watch?v=1XcU-WsTcaU",
+            link: "1XcU-WsTcaU",
             video: "saw.mp4"
             },
             {
@@ -326,7 +326,7 @@ let dados = [
               local: "Local: Solo",
               musculosTrabalhados: ["Músculos: Abdutores do quadril", " glúteos"],
               imagem: "up_and_down.jpg",
-              link: "https://www.youtube.com/watch?v=I0jwEZUA5p8",
+              link: "I0jwEZUA5p8",
               video: "up_and_down.mp4"
               },
               {
@@ -336,7 +336,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " paravertebrais", " flexores do quadril"],
                 imagem: "control_balance.jpg",
-                link: "https://www.youtube.com/watch?v=qH8b1m3GV0A",
+                link: "qH8b1m3GV0A",
                 video: "control_balance.mp4"
                 },
                 {
@@ -346,7 +346,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril"],
                 imagem: "boomerang.jpg",
-                link: "https://www.youtube.com/watch?v=SRonJI25raE",
+                link: "SRonJI25raE",
                 video: "boomerang.mp4"
                 },
                 {
@@ -356,7 +356,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " oblíquos", " paravertebrais"],
                 imagem: "corkscrew.jpg",
-                link: "https://www.youtube.com/watch?v=Go6UA7SHdoE",
+                link: "Go6UA7SHdoE",
                 video: "corkscrew.mp4"
                 },
                 {
@@ -366,7 +366,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " flexores do quadril"],
                 imagem: "neck_pull.jpg",
-                link: "https://www.youtube.com/watch?v=wVaSdDSxKwY",
+                link: "wVaSdDSxKwY",
                 video: "neck_pull.mp4"
                 },
                 {
@@ -376,7 +376,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " isquiotibiais"],
                 imagem: "rocking.jpg",
-                link: "https://www.youtube.com/watch?v=KQWHWl7yV9g",
+                link: "KQWHWl7yV9g",
                 video: "rocking.mp4"
                 },
                 {
@@ -386,7 +386,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " isquiotibiais"],
                 imagem: "scissors_in_the_air.jpg",
-                link: "https://www.youtube.com/watch?v=CO9_19vfCf4",
+                link: "CO9_19vfCf4",
                 video: "scissors_in_the_air.mp4"
                 },
                 {
@@ -396,7 +396,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " isquiotibiais", " glúteos"],
                 imagem: "bicycle.jpg",
-                link: "https://www.youtube.com/watch?v=zKzRqV3cjgQ",
+                link: "zKzRqV3cjgQ",
                 video: "bicycle.mp4"
                 },
                 {
@@ -406,7 +406,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Abdômen", " oblíquos",  " glúteos", "ombros"],
                 imagem: "star.jpg",
-                link: "https://www.youtube.com/watch?v=4J8BLfxI3TM",
+                link: "4J8BLfxI3TM",
                 video: "star.mp4"
                 },
                 {
@@ -416,7 +416,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " paravertebrais"],
                 imagem: "twist.jpg",
-                link: "https://www.youtube.com/watch?v=XbQzj8rjBbw",
+                link: "XbQzj8rjBbw",
                 video: "twist.mp4"
                 },
                 {
@@ -426,7 +426,7 @@ let dados = [
                 local: "Local: Solo",
                 musculosTrabalhados: ["Músculos: Peitorais", " deltoides", " tríceps", " abdômen", " paravertebrais"],
                 imagem: "push_up_series.jpg",
-                link: "https://www.youtube.com/watch?v=Ny0qFffcemg",
+                link: "Ny0qFffcemg",
                 video: "push_up_series.mp4"
                 },
                 
@@ -439,7 +439,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais", " panturrilhas"],
                   imagem: "footwork.jpg",
-                  link: "https://www.youtube.com/watch?v=QDBzjlhKsco",
+                  link: "QDBzjlhKsco",
                   video: "footwork.mp4"
                   },
                   {
@@ -449,7 +449,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " músculos respiratórios"],
                   imagem: "the_hundred.jpg",
-                  link: "https://www.youtube.com/watch?v=vx4DdBWY6kQ",
+                  link: "vx4DdBWY6kQ",
                   video: "the_hundred.mp4"
                   },
                   {
@@ -459,7 +459,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " adutores e abdutores do quadril", " flexores do quadril"],
                   imagem: "leg_circles.jpg",
-                  link: "https://www.youtube.com/watch?v=C-Q__c002a0",
+                  link: "C-Q__c002a0",
                   video: "leg_circles.mp4"
                   },
                   {
@@ -469,7 +469,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " adutores", " quadríceps", " glúteos"],
                   imagem: "frog.jpg",
-                  link: "https://www.youtube.com/watch?v=ttdHtVohNY8",
+                  link: "ttdHtVohNY8",
                   video: "frog.mp4"
                   },
                   {
@@ -479,7 +479,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " quadríceps"],
                   imagem: "knee_stretch_round_back.jpg",
-                  link: "https://www.youtube.com/watch?v=3qohz790DpQ",
+                  link: "3qohz790DpQ",
                   video: "knee_stretch_round_back.mp4"
                   },
                   {
@@ -489,7 +489,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " quadríceps", " músculos da coluna"],
                   imagem: "knee_stretch_flat_back.jpg",
-                  link: "https://www.youtube.com/watch?v=A3vkIu44sVs",
+                  link: "A3vkIu44sVs",
                   video: "knee_stretch_flat_back.mp4"
                   },
                   {
@@ -499,7 +499,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Isquiotibiais", " glúteos", " músculos da coluna", " ombros"],
                   imagem: "elephant.jpg",
-                  link: "https://www.youtube.com/watch?v=weVTzC3S9IM",
+                  link: "weVTzC3S9IM",
                   video: "elephant.mp4"
                   },
                   {
@@ -509,7 +509,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " ombros", " glúteos", " quadríceps"],
                   imagem: "long_stretch.jpg",
-                  link: "https://www.youtube.com/watch?v=BfRY99Ka-zQ",
+                  link: "BfRY99Ka-zQ",
                   video: "long_stretch.mp4"
                   },
                   {
@@ -519,7 +519,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " isquiotibiais", " glúteos"],
                   imagem: "short_spine.jpg",
-                  link: "https://www.youtube.com/watch?v=qcP6Ewhw7nA",
+                  link: "qcP6Ewhw7nA",
                   video: "short_spine.mp4"
                   },
                   {
@@ -529,7 +529,7 @@ let dados = [
                   local: "Local: Reformer",
                   musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos", " isquiotibiais"],
                   imagem: "stomach_massage.jpg",
-                  link: "https://www.youtube.com/watch?v=Wt_horWSoA4",
+                  link: "Wt_horWSoA4",
                   video: "stomach_massage.mp4"
                   },
 
@@ -541,7 +541,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " bíceps"],
                     imagem: "coordination.jpg",
-                    link: "https://www.youtube.com/watch?v=3dYwRDMassE",
+                    link: "3dYwRDMassE",
                     video: "coordination.mp4"
                     },
                     {
@@ -551,7 +551,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " ombros"],
                     imagem: "swan.jpg",
-                    link: "https://www.youtube.com/watch?v=YaoTIbiHb0w",
+                    link: "YaoTIbiHb0w",
                     video: "swan.mp4"
                     },
                     {
@@ -561,7 +561,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " deltoides"],
                     imagem: "long_box_pulling_straps.jpg",
-                    link: "https://www.youtube.com/watch?v=Zic_h-K3gSI",
+                    link: "Zic_h-K3gSI",
                     video: "long_box_pulling_straps.mp4"
                     },
                     {
@@ -571,7 +571,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Abdômen", " ombros", " quadríceps"],
                     imagem: "backstroke.jpg",
-                    link: "https://www.youtube.com/watch?v=aT8BFRmEsBQ",
+                    link: "aT8BFRmEsBQ",
                     video: "backstroke.mp4"
                     },
                     {
@@ -581,7 +581,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Abdômen", " flexores do quadril", " paravertebrais"],
                     imagem: "teaser.jpg",
-                    link: "https://www.youtube.com/watch?v=6j_r7O7FgRs",
+                    link: "6j_r7O7FgRs",
                     video: "teaser.mp4"
                     },
                     {
@@ -591,7 +591,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Oblíquos", " paravertebrais", " ombros"],
                     imagem: "mermaid.jpg",
-                    link: "https://www.youtube.com/watch?v=Fi5S7cHGkMI",
+                    link: "Fi5S7cHGkMI",
                     video: "mermaid.mp4"
                     },
                     {
@@ -601,7 +601,7 @@ let dados = [
                     local: "Local: Reformer",
                     musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " paravertebrais", " isquiotibiais"],
                     imagem: "long_spine.jpg",
-                    link: "https://www.youtube.com/watch?v=tiFjck9xVus",
+                    link: "tiFjck9xVus",
                     video: "long_spine.mp4"
                     },
                                     
@@ -613,7 +613,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Abdômen", " isquiotibiais", " glúteos"],
                         imagem: "tendon_stretch.jpg",
-                        link: "https://www.youtube.com/watch?v=7TDdzbuLiUI",
+                        link: "7TDdzbuLiUI",
                         video: "tendon_stretch.mp4"
                         },
                         {
@@ -623,7 +623,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Abdômen", " oblíquos", " paravertebrais", " ombros"],
                         imagem: "snake.jpg",
-                        link: "https://www.youtube.com/watch?v=L2zuXWE-ZKY",
+                        link: "L2zuXWE-ZKY",
                         video: "snake.mp4"
                         },
                         {
@@ -633,7 +633,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " glúteos"],
                         imagem: "snake_twist.jpg",
-                        link: "https://www.youtube.com/watch?v=kvZb4YSSEfY",
+                        link: "kvZb4YSSEfY",
                         video: "snake_twist.mp4"
                         },
                         {
@@ -643,7 +643,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Abdômen", " ombros", " glúteos", " quadríceps"],
                         imagem: "balance_control_front.jpg",
-                        link: "https://www.youtube.com/watch?v=IxU3qHvxxlw",
+                        link: "IxU3qHvxxlw",
                         video: "balance_control_front.mp4"
                         },
                         {
@@ -653,7 +653,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " paravertebrais", " tríceps"],
                         imagem: "balance_control_back.jpg",
-                        link: "https://www.youtube.com/watch?v=P5yqvfHMNpo",
+                        link: "P5yqvfHMNpo",
                         video: "balance_control_back.mp4"
                         },
                         {
@@ -663,7 +663,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " oblíquos", " ombros"],
                         imagem: "star.jpg",
-                        link: "https://www.youtube.com/watch?v=Edow6Q-Mw5Q",
+                        link: "Edow6Q-Mw5Q",
                         video: "star.mp4"
                         },
                         {
@@ -673,7 +673,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais", " abdômen"],
                         imagem: "russian_splits.jpg",
-                        link: "https://www.youtube.com/watch?v=Po9NpVojl74",
+                        link: "Po9NpVojl74",
                         video: "russian_splits.mp4"
                         },
                         {
@@ -683,7 +683,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " paravertebrais", " isquiotibiais"],
                         imagem: "arabesque.jpg",
-                        link: "https://www.youtube.com/watch?v=0Is09CTjxKU",
+                        link: "0Is09CTjxKU",
                         video: "arabesque.mp4"
                         },
                         {
@@ -693,7 +693,7 @@ let dados = [
                         local: "Local: Reformer",
                         musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " quadríceps"],
                         imagem: "reverse_knee_stretch.jpg",
-                        link: "https://www.youtube.com/watch?v=naxsHoeWCDY",
+                        link: "naxsHoeWCDY",
                         video: "reverse_knee_stretch.mp4"
                         },
                         
@@ -1275,7 +1275,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais", "ombros"],
             imagem: "roll_down.jpg",
-            link: "https://www.youtube.com/watch?v=aTE_nrAyC5s",
+            link: "aTE_nrAyC5s",
             video: "roll_down.mp4"
           },
           {
@@ -1285,7 +1285,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "abdômen"],
             imagem: "leg_circles.jpg",
-            link: "https://www.youtube.com/watch?v=JcgVWZZ0YPc",
+            link: "JcgVWZZ0YPc",
             video: "leg_circles.mp4"
           },
           {
@@ -1305,7 +1305,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "isquiotibiais"],
             imagem: "leg_press.jpg",
-            link: "https://www.youtube.com/watch?v=7qTRHjqa08c",
+            link: "7qTRHjqa08c",
             video: "leg_press.mp4"
           },
           {
@@ -1315,7 +1315,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais"],
             imagem: "cat_stretch.jpg",
-            link: "https://www.youtube.com/watch?v=GjjFGpnSCQ4",
+            link: "GjjFGpnSCQ4",
             video: "cat_stretch.mp4"
           },
           {
@@ -1428,7 +1428,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "quadríceps"],
             imagem: "teaser.jpg",
-            link: "https://www.youtube.com/watch?v=AZvBiQfrByg",
+            link: "AZvBiQfrByg",
             video: "teaser.mp4"
           },
           {
@@ -1438,7 +1438,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais", "glúteos"],
             imagem: "airplane.jpg",
-            link: "https://www.youtube.com/watch?v=SVc3ROEnhDw",
+            link: "SVc3ROEnhDw",
             video: "airplane.mp4"
           },
           {
@@ -1448,7 +1448,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais", "isquiotibiais"],
             imagem: "long_spine.jpg",
-            link: "https://www.youtube.com/watch?v=ewJKm6RNCZ4",
+            link: "ewJKm6RNCZ4",
             video: "long_spine.mp4"
           },
           {
@@ -1458,7 +1458,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Oblíquos", "paravertebrais"],
             imagem: "mermaid.jpg",
-            link: "https://www.youtube.com/watch?v=wbgRLhqa5Y4",
+            link: "wbgRLhqa5Y4",
             video: "mermaid.mp4"
           },
           {
@@ -1468,7 +1468,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "quadríceps", "glúteos"],
             imagem: "monkey.jpg",
-            link: "https://www.youtube.com/watch?v=MWCQf7HsLyQ",
+            link: "MWCQf7HsLyQ",
             video: "monkey.mp4"
           },
           {
@@ -1478,7 +1478,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "abdômen"],
             imagem: "leg_springs.jpg",
-            link: "https://www.youtube.com/watch?v=KRg6O7uFq4w",
+            link: "KRg6O7uFq4w",
             video: "leg_springs.mp4"
           },
           {
@@ -1488,7 +1488,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "ombros"],
             imagem: "push_through.jpg",
-            link: "https://www.youtube.com/watch?v=4x2Pz-PA2VI",
+            link: "4x2Pz-PA2VI",
             video: "push_through.mp4"
           },
           {
@@ -1498,7 +1498,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Paravertebrais", "glúteos", "isquiotibiais"],
             imagem: "hanging_back.jpg",
-            link: "https://www.youtube.com/watch?v=syn3kB3lkeM",
+            link: "syn3kB3lkeM",
             video: "hanging_back.mp4"
           },
           {
@@ -1508,7 +1508,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Quadríceps", "abdômen", "glúteos"],
             imagem: "leg_circles_with_springs.jpg",
-            link: "https://www.youtube.com/watch?v=zY9g6QJGXD4",
+            link: "zY9g6QJGXD4",
             video: "leg_circles_with_springs.mp4"
           },
           {
@@ -1518,7 +1518,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Bíceps", "deltoides", "abdômen"],
             imagem: "hanging_pull_ups.jpg",
-            link: "https://www.youtube.com/watch?v=bS5y7L-msxw",
+            link: "bS5y7L-msxw",
             video: "hanging_pull_ups.mp4"
           },
           {
@@ -1528,7 +1528,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "quadríceps", "glúteos"],
             imagem: "single_leg_stretch_with_springs.jpg",
-            link: "https://www.youtube.com/watch?v=HJZa-Eiqn8c",
+            link: "HJZa-Eiqn8c",
             video: "single_leg_stretch_with_springs.mp4"
           },
           {
@@ -1538,7 +1538,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Ombros", "abdômen", "paravertebrais"],
             imagem: "kneeling_arm_circles.jpg",
-            link: "https://www.youtube.com/watch?v=AOvATGjwH-w",
+            link: "AOvATGjwH-w",
             video: "kneeling_arm_circles.mp4"
           },
           {
@@ -1548,7 +1548,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdutores", "glúteos", "quadríceps"],
             imagem: "side_lying_leg_lifts.jpg",
-            link: "https://www.youtube.com/watch?v=p8wY0pJJswc",
+            link: "p8wY0pJJswc",
             video: "side_lying_leg_lifts.mp4"
           },
 
@@ -1561,7 +1561,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Glúteos", "isquiotibiais", "abdômen"],
             imagem: "high_bridge_with_springs.jpg",
-            link: "https://www.youtube.com/watch?v=nCxXza9VY6o",
+            link: "nCxXza9VY6o",
             video: "high_bridge_with_springs.mp4"
           },
           {
@@ -1571,7 +1571,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "quadríceps", "glúteos"],
             imagem: "scissors.jpg",
-            link: "https://www.youtube.com/watch?v=q7dRreXAoeo",
+            link: "q7dRreXAoeo",
             video: "scissors.mp4"
           },
           {
@@ -1581,7 +1581,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdutores", "glúteos", "abdômen"],
             imagem: "side_leg_series.jpg",
-            link: "https://www.youtube.com/watch?v=p8wY0pJJswc&t=35s",
+            link: "p8wY0pJJswc&t=35s",
             video: "side_leg_series.mp4"
           },
           {
@@ -1591,7 +1591,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "quadríceps"],
             imagem: "teaser_with_springs.jpg",
-            link: "https://www.youtube.com/watch?v=FZy8COOtTd4",
+            link: "FZy8COOtTd4",
             video: "teaser_with_springs.mp4"
           },
           {
@@ -1601,7 +1601,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais"],
             imagem: "spine_stretch.jpg",
-            link: "https://www.youtube.com/watch?v=CS8vbqbAOtA",
+            link: "CS8vbqbAOtA",
             video: "spine_stretch.mp4"
           },
           {
@@ -1611,7 +1611,7 @@ let dados = [
             local: "Local: Cadillac",
             musculosTrabalhados: ["Músculos: Paravertebrais", "glúteos", "abdômen"],
             imagem: "backbend.jpg",
-            link: "https://www.youtube.com/watch?v=ENL97dPa2cY",
+            link: "ENL97dPa2cY",
             video: "backbend.mp4"
           },
           
@@ -1626,7 +1626,7 @@ let dados = [
         local: "",
         musculosTrabalhados: [""],
         imagem: "joseph_pilates.jpg",
-        link: "https://www.youtube.com/watch?v=GM1vqkIZYZo",
+        link: "GM1vqkIZYZo",
         video: "joseph_pilates.mp4"
               }
 ];
