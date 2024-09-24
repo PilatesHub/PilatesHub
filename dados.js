@@ -1273,7 +1273,7 @@ let dados = [
             descricao: "Posição: Sentado de frente para a barra de roll down, segurando a barra com os braços estendidos. Execução: Enrole a coluna para trás, abaixando lentamente até deitar no Cadillac, depois retorne à posição inicial.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais", "ombros"],
+            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " ombros"],
             imagem: "roll_down.jpg",
             link: "aTE_nrAyC5s",
             video: "roll_down.mp4"
@@ -1283,7 +1283,7 @@ let dados = [
             descricao: "Posição: Deitado de costas, com as alças presas aos pés. Execução: Faça círculos controlados com as pernas, mantendo o core estável.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "abdômen"],
+            musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
             imagem: "leg_circles.jpg",
             link: "JcgVWZZ0YPc",
             video: "leg_circles.mp4"
@@ -1293,7 +1293,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as mãos segurando a barra de mola. Execução: Pressione a barra para baixo com os braços, mantendo os cotovelos próximos ao corpo.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Peitorais", "tríceps", "deltoides"],
+            musculosTrabalhados: ["Músculos: Peitorais", " tríceps", " deltoides"],
             imagem: "arm_press.jpg",
             link: "",
             video: "arm_press.mp4"
@@ -1303,7 +1303,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as pernas estendidas e os pés na barra. Execução: Empurre a barra para cima, estendendo as pernas, e depois retorne controladamente.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "isquiotibiais"],
+            musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais"],
             imagem: "leg_press.jpg",
             link: "7qTRHjqa08c",
             video: "leg_press.mp4"
@@ -1313,7 +1313,7 @@ let dados = [
             descricao: "Posição: De joelhos em quatro apoios com as mãos segurando a barra. Execução: Enrole a coluna para dentro (flexão) e depois para fora (extensão), mobilizando a coluna.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais"],
+            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais"],
             imagem: "cat_stretch.jpg",
             link: "GjjFGpnSCQ4",
             video: "cat_stretch.mp4"
@@ -1323,7 +1323,7 @@ let dados = [
             descricao: "Posição: Sentado de costas para a barra de molas, com as mãos segurando a barra. Execução: Pressione a barra para baixo, estendendo os braços.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Ombros", "tríceps", "abdômen"],
+            musculosTrabalhados: ["Músculos: Ombros", " tríceps", " abdômen"],
             imagem: "shoulder_press.jpg",
             link: "",
             video: "shoulder_press.mp4"
@@ -1333,7 +1333,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com os pés na barra de molas. Execução: Pressione a barra para baixo com os pés, estendendo as pernas.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "panturrilhas"],
+            musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " panturrilhas"],
             imagem: "footwork.jpg",
             link: "",
             video: "footwork.mp4"
@@ -1343,7 +1343,7 @@ let dados = [
             descricao: "Posição: Sentado em frente à barra push-through com os braços estendidos. Execução: Empurre a barra para frente enquanto enrole a coluna, depois retorne.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "ombros"],
+            musculosTrabalhados: ["Músculos: Abdômen", " ombros"],
             imagem: "seated_push_through.jpg",
             link: "",
             video: "seated_push_through.mp4"
@@ -1353,7 +1353,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com os pés na barra de molas. Execução: Eleve o quadril até formar uma ponte e abaixe controladamente.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Glúteos", "isquiotibiais", "paravertebrais"],
+            musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " paravertebrais"],
             imagem: "bridging.jpg",
             link: "",
             video: "bridging.mp4"
@@ -1363,7 +1363,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com uma perna estendida e a outra segurando a alça. Execução: Alterne as pernas em um movimento de estiramento enquanto mantém o core ativado.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps"],
             imagem: "single_leg_stretch.jpg",
             link: "",
             video: "single_leg_stretch.mp4"
@@ -1373,7 +1373,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as pernas estendidas e as alças nos pés. Execução: Respire profundamente enquanto pressiona as alças para baixo, mantendo o core ativo.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps"],
             imagem: "breathing.jpg",
             link: "",
             video: "breathing.mp4"
@@ -1383,7 +1383,7 @@ let dados = [
             descricao: "Posição: Sentado com as mãos segurando as alças. Execução: Pressione as alças para baixo, estendendo os braços.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Tríceps", "deltoides"],
+            musculosTrabalhados: ["Músculos: Tríceps", " deltoides"],
             imagem: "triceps_press.jpg",
             link: "",
             video: "triceps_press.mp4"
@@ -1393,7 +1393,7 @@ let dados = [
             descricao: "Posição: Em pé de frente para a barra de molas, segurando as alças. Execução: Puxe as alças em direção ao corpo e retorne controladamente.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Ombros", "bíceps"],
+            musculosTrabalhados: ["Músculos: Ombros", " bíceps"],
             imagem: "standing_arm_series.jpg",
             link: "",
             video: "standing_arm_series.mp4"
@@ -1403,7 +1403,7 @@ let dados = [
             descricao: "Posição: Deitado de lado com a perna superior na alça. Execução: Pressione a perna para baixo enquanto mantém o tronco estável.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdutores", "glúteos", "abdômen"],
+            musculosTrabalhados: ["Músculos: Abdutores", " glúteos", " abdômen"],
             imagem: "side_leg_press.jpg",
             link: "",
             video: "side_leg_press.mp4"
@@ -1413,7 +1413,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as pernas estendidas e os pés nas alças. Execução: Eleve o quadril e pressione as alças para baixo com os pés.",
             nivel: "Nível: Básico",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Glúteos", "isquiotibiais"],
+            musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais"],
             imagem: "hip_extension.jpg",
             link: "",
             video: "hip_extension.mp4"
@@ -1426,7 +1426,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as as mãos na barra. Execução: Eleve o tronco e as pernas simultaneamente em uma posição de teaser.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps"],
             imagem: "teaser.jpg",
             link: "AZvBiQfrByg",
             video: "teaser.mp4"
@@ -1436,7 +1436,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as pernas nas alças. Execução: Eleve o quadril e as pernas para o ar, depois retorne controladamente.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais", "glúteos"],
+            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " glúteos"],
             imagem: "airplane.jpg",
             link: "SVc3ROEnhDw",
             video: "airplane.mp4"
@@ -1446,7 +1446,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as pernas nas alças. Execução: Eleve as pernas e a coluna em uma linha reta, depois retorne devagar.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais", "isquiotibiais"],
+            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " isquiotibiais"],
             imagem: "long_spine.jpg",
             link: "ewJKm6RNCZ4",
             video: "long_spine.mp4"
@@ -1456,7 +1456,7 @@ let dados = [
             descricao: "Posição: Sentado de lado com uma mão segurando a barra de molas. Execução: Puxe a barra para baixo enquanto inclina o tronco lateralmente.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Oblíquos", "paravertebrais"],
+            musculosTrabalhados: ["Músculos: Oblíquos", " paravertebrais"],
             imagem: "mermaid.jpg",
             link: "wbgRLhqa5Y4",
             video: "mermaid.mp4"
@@ -1466,7 +1466,7 @@ let dados = [
             descricao: "Posição: Sentado de frente para a barra de molas, segurando a barra com as mãos. Execução: Puxe a barra para baixo e eleve as pernas estendidas, depois retorne.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps", "glúteos"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos"],
             imagem: "monkey.jpg",
             link: "MWCQf7HsLyQ",
             video: "monkey.mp4"
@@ -1476,7 +1476,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as alças nos pés. Execução: Pressione as alças para baixo e retorne controladamente.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Quadríceps", "glúteos", "abdômen"],
+            musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
             imagem: "leg_springs.jpg",
             link: "KRg6O7uFq4w",
             video: "leg_springs.mp4"
@@ -1486,7 +1486,7 @@ let dados = [
             descricao: "Posição: Sentado de frente para a barra segurando com as mãos. Execução: Empurre a barra para frente enquanto enrole a coluna.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "ombros"],
+            musculosTrabalhados: ["Músculos: Abdômen", " ombros"],
             imagem: "push_through.jpg",
             link: "4x2Pz-PA2VI",
             video: "push_through.mp4"
@@ -1496,7 +1496,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com os pés nas alças e as mãos segurando as alças. Execução: Estenda o corpo, criando um arco suave.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Paravertebrais", "glúteos", "isquiotibiais"],
+            musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " isquiotibiais"],
             imagem: "hanging_back.jpg",
             link: "syn3kB3lkeM",
             video: "hanging_back.mp4"
@@ -1506,7 +1506,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as alças presas aos pés. Execução: Faça círculos amplos e controlados com as pernas, ativando o core.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Quadríceps", "abdômen", "glúteos"],
+            musculosTrabalhados: ["Músculos: Quadríceps", " abdômen", " glúteos"],
             imagem: "leg_circles_with_springs.jpg",
             link: "zY9g6QJGXD4",
             video: "leg_circles_with_springs.mp4"
@@ -1516,7 +1516,7 @@ let dados = [
             descricao: "Posição: MMII Suspensos no trapézio com as mãos segurando as barras. Execução: Puxe o corpo para cima enquanto mantém o core ativado.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Bíceps", "deltoides", "abdômen"],
+            musculosTrabalhados: ["Músculos: Bíceps", " deltoides", " abdômen"],
             imagem: "hanging_pull_ups.jpg",
             link: "bS5y7L-msxw",
             video: "hanging_pull_ups.mp4"
@@ -1526,7 +1526,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com uma perna nas alças. Execução: Alterne as pernas em um movimento de estiramento com controle.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps", "glúteos"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos"],
             imagem: "single_leg_stretch_with_springs.jpg",
             link: "HJZa-Eiqn8c",
             video: "single_leg_stretch_with_springs.mp4"
@@ -1536,7 +1536,7 @@ let dados = [
             descricao: "Posição: De joelhos com as mãos segurando as alças. Execução: Faça círculos com os braços, mantendo o corpo estável.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Ombros", "abdômen", "paravertebrais"],
+            musculosTrabalhados: ["Músculos: Ombros", " abdômen", " paravertebrais"],
             imagem: "kneeling_arm_circles.jpg",
             link: "AOvATGjwH-w",
             video: "kneeling_arm_circles.mp4"
@@ -1546,7 +1546,7 @@ let dados = [
             descricao: "Posição: Deitado de lado com a perna superior na alça. Execução: Levante a perna superior, mantendo o tronco estável.",
             nivel: "Nível: Intermediário",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdutores", "glúteos", "quadríceps"],
+            musculosTrabalhados: ["Músculos: Abdutores", " glúteos", " quadríceps"],
             imagem: "side_lying_leg_lifts.jpg",
             link: "p8wY0pJJswc",
             video: "side_lying_leg_lifts.mp4"
@@ -1559,7 +1559,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com os pés apoiados e as mãos segurando as alças. Execução: Levante o quadril e pressione as alças para baixo, formando uma ponte.",
             nivel: "Nível: Avançado",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Glúteos", "isquiotibiais", "abdômen"],
+            musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " abdômen"],
             imagem: "high_bridge_with_springs.jpg",
             link: "nCxXza9VY6o",
             video: "high_bridge_with_springs.mp4"
@@ -1569,7 +1569,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as pernas nas alças. Execução: Alterne as pernas, mantendo o core estável enquanto uma perna desce.",
             nivel: "Nível: Avançado",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps", "glúteos"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos"],
             imagem: "scissors.jpg",
             link: "q7dRreXAoeo",
             video: "scissors.mp4"
@@ -1579,7 +1579,7 @@ let dados = [
             descricao: "Posição: Deitado de lado com a perna superior na alça. Execução: Faça movimentos de elevação, círculo e extensão da perna.",
             nivel: "Nível: Avançado",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdutores", "glúteos", "abdômen"],
+            musculosTrabalhados: ["Músculos: Abdutores", " glúteos", " abdômen"],
             imagem: "side_leg_series.jpg",
             link: "p8wY0pJJswc&t=35s",
             video: "side_leg_series.mp4"
@@ -1589,7 +1589,7 @@ let dados = [
             descricao: "Posição: Deitado de costas com as alças nos pés. Execução: Eleve o tronco e as pernas simultaneamente em uma posição de teaser, controlando a descida.",
             nivel: "Nível: Avançado",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "quadríceps"],
+            musculosTrabalhados: ["Músculos: Abdômen", " quadríceps"],
             imagem: "teaser_with_springs.jpg",
             link: "FZy8COOtTd4",
             video: "teaser_with_springs.mp4"
@@ -1599,7 +1599,7 @@ let dados = [
             descricao: "Posição: Sentado com as pernas estendidas e segurando a barra. Execução: Alongue a coluna para frente enquanto pressiona empurra a barra.",
             nivel: "Nível: Avançado",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Abdômen", "paravertebrais"],
+            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais"],
             imagem: "spine_stretch.jpg",
             link: "CS8vbqbAOtA",
             video: "spine_stretch.mp4"
@@ -1609,7 +1609,7 @@ let dados = [
             descricao: "Posição: Ajoelhado segurando a barra de molas. Execução: Desloque o tronco para trás realizando em um arco puxando a barra para o peito juntamente com uma extensão de coluna.",
             nivel: "Nível: Avançado",
             local: "Local: Cadillac",
-            musculosTrabalhados: ["Músculos: Paravertebrais", "glúteos", "abdômen"],
+            musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " abdômen"],
             imagem: "backbend.jpg",
             link: "ENL97dPa2cY",
             video: "backbend.mp4"

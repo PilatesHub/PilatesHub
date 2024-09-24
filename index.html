@@ -9,6 +9,36 @@
   <meta name="google-adsense-account" content="ca-pub-4217804363301567">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4217804363301567"
      crossorigin="anonymous"></script>
+     <style>
+      /* Rodapé suspenso */
+      footer {
+          background-color: #6ba5f1;
+          text-align: center;
+          padding: 5px 0;
+          position: fixed;
+          bottom: 10px; /* Mantém o rodapé suspenso a 10px do final da tela */
+          left: 50%;
+          transform: translateX(-50%);
+          width: 90%; /* Controla a largura do rodapé, ajuste se necessário */
+          font-size: 12px;
+          box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Adiciona sombra para destacar */
+          border-radius: 8px; /* Deixa as bordas arredondadas */
+          cursor: pointer; /* Muda o cursor para indicar clique */
+          transition: opacity 0.5s ease; /* Suaviza o efeito de desaparecimento */
+      }
+
+      footer.hidden {
+          opacity: 0; /* Torna o rodapé invisível ao ser clicado */
+          pointer-events: none; /* Desabilita qualquer interação após o clique */
+      }
+
+      /* Link no rodapé */
+      footer a {
+          text-decoration: none;
+          color: #333;
+          font-size: 12px;
+      }
+  </style>
 </head>
 <body>
   <header>
@@ -17,7 +47,7 @@
   </header>
   <main>
     <section>
-      <input type="text" placeholder="Digite o nome do exercício ou o aparelho ou o nível" id="campo-pesquisa">
+      <input type="text" placeholder="Digite o nome do exercício ou aparelho ou nível" id="campo-pesquisa">
       <button onclick="pesquisar()">Pesquisar</button>
     </section>
     <section class="resultados-pesquisa" id="resultados-pesquisa">
@@ -34,5 +64,20 @@
       event.target.play();
     }
   </script>
+     <!-- Rodapé suspenso -->
+     <footer id="footer">
+      <p style="margin-bottom: 2px; font-size: 14px;">&copy; 2024 Pilates-Hub. Todos os direitos reservados.</p>
+      <p style="margin-top: 0;">
+          <a href="politica-privacidade.html" target="_blank">Política de Privacidade</a>
+      </p>
+  </footer>
+
+  <script>
+      // Função para esconder o rodapé ao clicar nele
+      document.getElementById("footer").addEventListener("click", function() {
+          this.classList.add("hidden");
+      });
+  </script>
+
 </body>
 </html>
