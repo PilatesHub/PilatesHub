@@ -50,6 +50,12 @@ function pesquisar() {
 
     mostrarVideo();
 }
+// Novo código para o botão de aceitação
+document.getElementById("btnAceitar").addEventListener("click", function() {
+  // Aqui você define a ação que será executada ao clicar no botão
+  alert("Você aceitou os termos!");
+  // Outras ações, como salvar preferências, redirecionar, etc.
+});
 
 // function mostrarVideo() {
 //   const videos = document.querySelectorAll('video.hidden');
