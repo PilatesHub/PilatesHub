@@ -138,21 +138,13 @@ footer {
         flex-direction: column;
         align-items: center;
         padding: 20px;
-        background-color: #f0f0f0; /* Adiciona um fundo para facilitar a visualização */
       }
       
       .item-resultado {
         max-width: 80%;
         margin: 20px;
         padding: 10px;
-        border: 1px solid #ccc;
         text-align: center;
-      }
-      
-      @media (max-width: 768px) {
-        .item-resultado {
-          max-width: 95%; /* Aumenta a largura máxima para telas menores */
-        }
       }
 }
 
@@ -178,14 +170,12 @@ footer {
         flex-direction: column;
         align-items: center;
         padding: 20px;
-        background-color: #f0f0f0; /* Adiciona um fundo para facilitar a visualização */
       }
       
       .item-resultado {
         max-width: 80%;
         margin: 20px;
         padding: 10px;
-        border: 1px solid #ccc;
         text-align: center;
       }
       
