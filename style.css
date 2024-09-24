@@ -168,23 +168,31 @@ footer {
         font-size: 0.9rem; /* Tamanho da fonte do botão em telas pequenas */
     }
 
-    .resultados-pesquisa {
+    .item-resultado {
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 20px;
+        max-width: 100%;
+        margin: 1rem;
+        padding: 1rem;
+        /* ... */
       }
       
-      .item-resultado {
-        max-width: 80%;
-        margin: 20px;
-        padding: 10px;
+      .item-resultado h2 {
         text-align: center;
+        flex: 0 1 auto; /* Permite que o título ocupe o espaço necessário */
       }
       
       @media (max-width: 768px) {
+        /* ... (seu CSS existente) */
+      
         .item-resultado {
-          max-width: 95%; /* Aumenta a largura máxima para telas menores */
+          max-width: 95%;
+          padding: 1rem;
+        }
+      
+        .item-resultado h2 {
+          font-size: 1.2rem; /* Ajuste o tamanho da fonte conforme necessário */
         }
       }
 
