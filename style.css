@@ -207,7 +207,16 @@ footer {
       width: 90%;
       margin: 0 auto;
     }
+    .container-texto {
+        min-width: 300px; /* Ajuste o valor conforme necessário */
+        padding: 10px;
+        width: 80%; /* Ajuste a porcentagem conforme necessário */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
+
 .item-resultado img {
     max-width: 100%;
     height: auto;
