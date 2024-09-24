@@ -134,13 +134,19 @@ footer {
     }
 
     .resultados-pesquisa {
-        width: 40rem; /* Largura da caixa de resultados em telas menores */
-        height: 40vh; /* Altura da caixa de resultados em telas menores */
-    }
-
-    .item-resultado h2 {
-        font-size: 1.3rem; /* Tamanho da fonte dos títulos em telas menores */
-    }
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; /* Se quiser empilhar os resultados verticalmente */
+      }
+      
+      .item-resultado {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin: 10px;
+        text-align: center;
+      }
 }
 
 /* Responsividade para celulares */
@@ -161,13 +167,19 @@ footer {
     }
 
     .resultados-pesquisa {
-        width: 90%; /* Largura da caixa de resultados em telas pequenas */
-        height: 50vh; /* Altura da caixa de resultados em telas pequenas */
-    }
-
-    .item-resultado h2 {
-        font-size: 1.1rem; /* Tamanho da fonte dos títulos em telas pequenas */
-    }
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; /* Se quiser empilhar os resultados verticalmente */
+      }
+      
+      .item-resultado {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin: 10px;
+        text-align: center;
+      }
 
     footer {
         font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
