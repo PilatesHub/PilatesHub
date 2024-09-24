@@ -127,6 +127,7 @@ footer {
     h1 {
         font-size: 2rem; /* Tamanho da fonte em telas menores */
         letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
+        text-align: center; /* Alinha o texto ao centro */
     }
 
     section input {
@@ -155,6 +156,7 @@ footer {
     h1 {
         font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
+        text-align: center; /* Alinha o texto ao centro */
     }
 
     section input {
