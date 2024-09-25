@@ -123,36 +123,90 @@ footer {
     font-size: 1rem; /* Tamanho da fonte */
 }
 
- /* Responsividade: ajuste para telas menores (celulares) */
- @media (max-width: 768px) {
+@media (max-width: 768px) {
     h1 {
-        font-size: 2em;
+        font-size: 2rem; /* Tamanho da fonte em telas menores */
+        letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
+        text-align: center; /* Alinha o texto ao centro */
     }
-    p {
-        font-size: 1em;
+
+    section input {
+        width: 25rem; /* Largura dos inputs em telas menores */
+        padding: 0.8rem; /* Espaçamento interno em telas menores */
     }
-    input[type="text"] {
-        width: 90%;
-    }
-    button {
-        width: 90%;
-        max-width: 300px;
-    }
+
+    .resultados-pesquisa {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+      }
+      
+      .item-resultado {
+        max-width: 80%;
+        margin: 20px;
+        padding: 10px;
+        text-align: center;
+      }
 }
 
-/* Responsividade para telas muito pequenas (celulares menores) */
+/* Responsividade para celulares */
 @media (max-width: 480px) {
+
     h1 {
-        font-size: 1.8em;
+        font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
+        letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
+        text-align: center; /* Alinha o texto ao centro */
     }
-    p {
-        font-size: 0.9em;
+
+    section input {
+        width: 17rem; /* Largura total dos inputs em telas pequenas */
     }
-    input[type="text"] {
-        width: 100%;
+
+    section button {
+        padding: 0.6rem 1rem; /* Espaçamento interno do botão em telas pequenas */
+        font-size: 0.9rem; /* Tamanho da fonte do botão em telas pequenas */
     }
-    button {
-        width: 100%;
+
+    .resultados-pesquisa {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+      }
+      
+      .item-resultado {
+        max-width: 80%;
+        margin: 20px;
+        padding: 10px;
+        text-align: center;
+      }
+      
+      @media (max-width: 768px) {
+        .item-resultado {
+          max-width: 95%; /* Aumenta a largura máxima para telas menores */
+        }
+      }
+
+    footer {
+        font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
+    }
+}
+@media (max-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+    .container {
+      width: 90%;
+      margin: 0 auto;
+    }
+    .container-texto {
+        min-width: 300px; /* Ajuste o valor conforme necessário */
+        padding: 10px;
+        width: 80%; /* Ajuste a porcentagem conforme necessário */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }
 .item-resultado img {
