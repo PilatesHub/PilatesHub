@@ -46,7 +46,7 @@ let dados = [
         local: "Local: Solo",
         musculosTrabalhados: ["Músculos: Abdômen", " músculos respiratórios", " quadríceps"],
         imagem: "the_hundred.jpg",
-        link: "UaqpuUzs1i8&t=21s",
+        link: "On2BPeK4q2Y",
         video: "the_hundred.mp4"
         },
         {

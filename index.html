@@ -12,7 +12,7 @@
      <style>
       /* Rodapé suspenso */
       footer {
-          background-color: #6ba5f1;
+          background-color: #6fa1e3;
           text-align: center;
           padding: 5px 0;
           position: fixed;
@@ -56,6 +56,17 @@
         <video class="hidden" poster="imagens/${dado.imagem}" controls>
         </video>
       </div>
+      <!-- formatação da Imagem do Joseph -->
+    <img src="imagens/joseph.png" alt="Joseph Pilates" style="width: 300px; height: 600px; border-radius: 10px; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); position: absolute; top: 10%; right: 0; z-index: -1;">
+    
+    <section>
+     <!-- formatação das Imagens -->
+      <img src="imagens/Figura 1.png" alt="figura 1" style="width: 250px; height: 80px; border-radius: 10px; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); position: absolute; relative: 0; left: 20%; z-index: -1;">
+      <img src="imagens/Figura 2.png" alt="figura 2" style="width: 250px; height: 80px; border-radius: 10px; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); position: absolute; relative: 0; right: 20%; z-index: -1;">
+      <img src="imagens/Figura 4.png" alt="figura 3" style="width: 300px; height: 230px; border-radius: 10px; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); position: absolute; top: 36%; left: 3%; z-index: -1;">
+      <img src="imagens/Figura 5.png" alt="figura 2" style="width: 250px; height: 80px; border-radius: 10px; box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3); position: absolute; relative: 0; central: 0; z-index: -1;">
+
+    </section>
   </main>
   <script src="dados.js"></script>
   <script src="app.js"></script>
@@ -64,6 +75,10 @@
       event.target.play();
     }
   </script>
+ 
+ <!-- formatação da Imagem inferior -->
+
+
        <!-- Rodapé suspenso -->
      <footer id="footer">
       <p style="margin-bottom: 2px; font-size: 14px;">&copy; 2024 Pilates-Hub. Todos os direitos reservados.</p>
@@ -71,8 +86,7 @@
           <a href="politica-privacidade.html" target="_blank">Política de Privacidade</a>
           <button id="btnAceitar">Aceitar</button> </p>
   </footer>
-
-  <script>
+   <script>
       // Função para esconder o rodapé ao clicar nele
       document.getElementById("footer").addEventListener("click", function() {
           this.classList.add("hidden");
