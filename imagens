@@ -2,3 +2,4 @@
 ![image alt](https://github.com/PilatesHub/PilatesHub/blob/main/Figura%201.png?raw=true)
 ![image alt](https://github.com/PilatesHub/PilatesHub/blob/main/Figura%202.png?raw=true)
 ![image alt](https://github.com/PilatesHub/PilatesHub/blob/main/Figura%204.png?raw=true)
+![image alt](https://github.com/PilatesHub/PilatesHub/blob/main/Figura%205.png?raw=true)
