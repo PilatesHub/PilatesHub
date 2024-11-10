@@ -699,116 +699,116 @@ let dados = [
                         
 // // Exercícios no CHAIR
 //                 // nível básico
-//                 {
-//                   nome: "Press Down with Handles",
-//                   descricao: "Posição: Sentado na chair, com as mãos segurando as alças laterais. Execução: Pressione o pedal para baixo com os pés enquanto mantém os braços estendidos e o tronco ereto. Retorne lentamente à posição inicial.",
-//                   nivel: "Nível: Básico",
-//                   local: "Local: Chair",
-//                   musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//                   imagem: "press_down_with_handles.jpg",
-//                   link: "",
-//                   video: "press_down_with_handles.mp4"
-//               },
-//               {
-//                   nome: "Frog on the Chair",
-//                   descricao: "Posição: Sentado na chair com as pernas dobradas e os pés posicionados no pedal. Execução: Pressione o pedal para baixo estendendo as pernas, mantendo os joelhos abertos e o core ativado.",
-//                   nivel: "Nível: Básico",
-//                   local: "Local: Chair",
-//                   musculosTrabalhados: ["Músculos: Abdômen", " adutores", " quadríceps", " glúteos"],
-//                   imagem: "frog_on_the_chair.jpg",
-//                   link: "",
-//                   video: "frog_on_the_chair.mp4"
-//               },
-//               {
-//                   nome: "Spine Stretch Forward",
-//                   descricao: "Posição: Sentado na chair com os pés apoiados no chão e a coluna ereta. Execução: Flexione a coluna para frente enquanto alonga os braços em direção ao chão, mantendo o core ativado.",
-//                   nivel: "Nível: Básico",
-//                   local: "Local: Chair",
-//                   musculosTrabalhados: ["Músculos: Paravertebrais", " abdômen", " isquiotibiais"],
-//                   imagem: "spine_stretch_forward.jpg",
-//                   link: "",
-//                   video: "spine_stretch_forward.mp4"
-//               },
-//               {
-//                   nome: "Push Down with One Arm",
-//                   descricao: "Posição: Em pé, de lado para a chair, com uma mão segurando a barra de pedal. Execução: Pressione o pedal para baixo com uma mão, mantendo o tronco estável e o core ativado.",
-//                   nivel: "Nível: Básico",
-//                   local: "Local: Chair",
-//                   musculosTrabalhados: ["Músculos: Ombros", " tríceps", " abdômen"],
-//                   imagem: "push_down_with_one_arm.jpg",
-//                   link: "",
-//                   video: "push_down_with_one_arm.mp4"
-//               },
-//               {
-//                   nome: "Knee Stretch",
-//                   descricao: "Posição: Sentado na chair com as mãos apoiadas nas alças laterais e os pés no pedal. Execução: Puxe o pedal para cima flexionando os joelhos em direção ao peito, mantendo a coluna neutra.",
-//                   nivel: "Nível: Básico",
-//                   local: "Local: Chair",
-//                   musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos"],
-//                   imagem: "knee_stretch.jpg",
-//                   link: "",
-//                   video: "knee_stretch.mp4"
-//               },
-//               {
-//                 nome: "Footwork",
-//                 descricao: "Posição: Sentado na chair com a coluna ereta e os pés posicionados na barra de pedal. Execução: Pressione a barra para baixo com os pés, estendendo as pernas, e depois retorne à posição inicial controladamente.",
-//                 nivel: "Nível: Básico",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais", " panturrilhas"],
-//                 imagem: "footwork_chair.jpg",
-//                 link: "",
-//                 video: "footwork_chair.mp4"
-//             },
-//             {
-//                 nome: "Standing Pump",
-//                 descricao: "Posição: Em pé atrás da chair, com um pé na barra de pedal e o outro no chão. Execução: Pressione a barra para baixo com o pé enquanto mantém o corpo ereto e o core ativado, depois retorne controladamente.",
-//                 nivel: "Nível: Básico",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//                 imagem: "standing_pump_chair.jpg",
-//                 link: "",
-//                 video: "standing_pump_chair.mp4"
-//             },
-//             {
-//                 nome: "Seated Leg Press",
-//                 descricao: "Posição: Sentado na chair com a coluna ereta, um pé na barra de pedal e o outro no chão. Execução: Pressione o pedal para baixo com um pé, estendendo a perna, e depois retorne à posição inicial.",
-//                 nivel: "Nível: Básico",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais"],
-//                 imagem: "seated_leg_press_chair.jpg",
-//                 link: "",
-//                 video: "seated_leg_press_chair.mp4"
-//             },
-//             {
-//                 nome: "Chest Press",
-//                 descricao: "Posição: Sentado de frente para a barra de pedal com as mãos na barra e os braços estendidos. Execução: Pressione o pedal para baixo com os braços, mantendo os cotovelos próximos ao corpo, depois retorne à posição inicial.",
-//                 nivel: "Nível: Básico",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Peitorais", " tríceps", " deltoides"],
-//                 imagem: "chest_press_chair.jpg",
-//                 link: "",
-//                 video: "chest_press_chair.mp4"
-//             },
-//             {
-//                 nome: "Triceps Press Sit",
-//                 descricao: "Posição: Sentado de costas para a barra de pedal, com as mãos segurando a barra atrás do corpo. Execução: Pressione a barra para baixo estendendo os braços e depois retorne à posição inicial.",
-//                 nivel: "Nível: Básico",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Tríceps", " deltoides", " abdômen"],
-//                 imagem: "triceps_press_sit_chair.jpg",
-//                 link: "",
-//                 video: "triceps_press_sit_chair.mp4"
-//             },
-//             {
-//               nome: "Heel Raises",
-//               descricao: "Posição: Sentado na chair com os pés na barra de pedal, as pernas dobradas. Execução: Levante os calcanhares, pressionando a bola dos pés contra o pedal, e depois retorne à posição inicial.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Panturrilhas", " quadríceps", " glúteos"],
-//               imagem: "heel_raises_chair.jpg",
-//               link: "",
-//               video: "heel_raises_chair.mp4"
-//           },
+                {
+                  nome: "Abdominal Work Upper",
+                  descricao: "Posição: Sentado na chair, com as mãos segurando o pedal e os pés posicionados em cima da cadeira. Execução: Pressione o pedal para baixo com as mãos, mantendo a posição.",
+                  nivel: "Nível: Avançado",
+                  local: "Local: Chair",
+                  musculosTrabalhados: ["Músculos: Alongamento de Isquiotibiais", " abdômen"],
+                  imagem: "Abdominal Work Upper.jpg",
+                  link: "i4vssPUZuPc",
+                  video: "Abdominal Work Upper.mp4"
+              },
+              {
+                  nome: "Frog on the Chair",
+                  descricao: "Posição: Sentado na chair com as pernas dobradas e os pés posicionados no pedal. Execução: Pressione o pedal para baixo estendendo as pernas, mantendo os joelhos abertos e o core ativado.",
+                  nivel: "Nível: Básico",
+                  local: "Local: Chair",
+                  musculosTrabalhados: ["Músculos: Abdômen", " adutores", " quadríceps", " glúteos"],
+                  imagem: "frog_on_the_chair.jpg",
+                  link: "sxQfLHkpd0U",
+                  video: "frog_on_the_chair.mp4"
+              },
+              {
+                  nome: "Wrap Toes & Heels",
+                  descricao: "Posição: Sentado na chair com os pés apoiados no pedal. Execução: Execute o movimento dos MMII.",
+                  nivel: "Nível: Básico",
+                  local: "Local: Chair",
+                  musculosTrabalhados: ["Músculos: Quadríceps", " Tronco", " Perna"],
+                  imagem: "Wrap Toes & Heels.jpg",
+                  link: "MJrPI3SmcY8",
+                  video: "Wrap Toes & Heels.mp4"
+              },
+              {
+                  nome: "Press Pedal with Arms",
+                  descricao: "Posição: Sentado em frente a chair, com as mãos segurando o pedal. Execução: Pressione o pedal para baixo com as mães, mantendo o tronco estável e o core ativado.",
+                  nivel: "Nível: Básico",
+                  local: "Local: Chair",
+                  musculosTrabalhados: ["Músculos: Ombros", " tríceps", " abdômen"],
+                  imagem: "Press Pedal with Arms.jpg",
+                  link: "zvH8KbZwWeI",
+                  video: "Press Pedal with Arms.mp4"
+              },
+              {
+                  nome: "Abdominal Work Lower",
+                  descricao: "Posição: Sentado na chair, com as mãos segurando o pedal e os pés posicionados em cima da cadeira. Execução: Pressione o pedal para baixo com as mãos, realizado flexão de tronco com deslocamento para trás.",
+                  nivel: "Nível: Avançado",
+                  local: "Local: Chair",
+                  musculosTrabalhados: ["Músculos: Alongamento de Isquiotibiais", " abdômen"],
+                  imagem: "Abdominal Work Lower.jpg",
+                  link: "",
+                  video: "Abdominal Work Lower.mp4"
+              },
+              {
+                nome: "Footwork",
+                descricao: "Posição: Sentado na chair com a coluna ereta e os pés posicionados na barra de pedal. Execução: Pressione a barra para baixo com os pés, estendendo as pernas, e depois retorne à posição inicial controladamente.",
+                nivel: "Nível: Básico",
+                local: "Local: Chair",
+                musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais", " panturrilhas"],
+                imagem: "footwork_chair.jpg",
+                link: "mzOunMJK9gk",
+                video: "footwork_chair.mp4"
+            },
+            {
+                nome: "Standing Pump",
+                descricao: "Posição: Em pé atrás da chair, com um pé no pedal e o outro no chão. Execução: Pressione o pedal para baixo com o pé enquanto mantém o corpo ereto e o core ativado, depois retorne controladamente.",
+                nivel: "Nível: Básico",
+                local: "Local: Chair",
+                musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
+                imagem: "standing_pump_chair.jpg",
+                link: "IsOW-vMt2sw",
+                video: "standing_pump_chair.mp4"
+            },
+            {
+                nome: "Jackknife",
+                descricao: "Posição: Deitado no chão com as mãos apoiadas no pedal e as pernas extendidas no chão. Execução: Realize o movimento levando as pernas em direção a chair, segurando no pedal.",
+                nivel: "Nível: Avançado",
+                local: "Local: Chair",
+                musculosTrabalhados: ["Músculos: Quadríceps", " abdômen", " Alongamento de isquiotibiais"],
+                imagem: "Jackknife.jpg",
+                link: "l8jAaKnTyX0",
+                video: "Jackknife.mp4"
+            },
+            {
+                nome: "One Arm Press",
+                descricao: "Sentado de costas para a barra de pedal, com uma mão segurando a barra atrás do corpo. Execução: Pressione a barra para baixo e depois retorne à posição inicial.",
+                nivel: "Nível: Básico",
+                local: "Local: Chair",
+                musculosTrabalhados: ["Músculos: Tríceps", " deltoides", " abdômen"],
+                imagem: "One Arm Press.jpg",
+                link: "yRJn_WDxzMY",
+                video: "One Arm Press.mp4"
+            },
+            {
+                nome: "Triceps Press Sit",
+                descricao: "Posição: Sentado de costas para a barra de pedal, com as mãos segurando a barra atrás do corpo. Execução: Pressione a barra para baixo estendendo os braços e depois retorne à posição inicial.",
+                nivel: "Nível: Básico",
+                local: "Local: Chair",
+                musculosTrabalhados: ["Músculos: Tríceps", " deltoides", " abdômen"],
+                imagem: "triceps_press_sit_chair.jpg",
+                link: "CnWO_t74Ykk",
+                video: "triceps_press_sit_chair.mp4"
+            },
+            {
+              nome: "Twist Lean",
+              descricao: "Posição: Sentado na chair parte de trás com as costas para o pedal. Execução: Realize o movimento rodando o tronco a abaixando até encontrar o pedal com uma das mãos. Abaixe realizandpo a extensão de tronco, abaixando o pedal e elevando a perna no mesmo lado.",
+              nivel: "Nível: Básico",
+              local: "Local: Chair",
+              musculosTrabalhados: ["Músculos: Panturrilhas", " quadríceps", " glúteos"],
+              imagem: "Twist Lean.jpg",
+              link: "s0WOB666BDM",
+              video: "Twist Lean.mp4"
+          },
 //           {
 //               nome: "Pelvic Lift",
 //               descricao: "Posição: Deitado de costas no chão com os pés na barra de pedal. Execução: Pressione o pedal para baixo enquanto eleva o quadril do chão, mantendo o core ativado.",
@@ -971,16 +971,16 @@ let dados = [
 //               link: "",
 //               video: "swan_chair.mp4"
 //           },
-//           {
-//               nome: "Side Pull Up",
-//               descricao: "Posição: Em pé lateralmente na barra de pedal, com uma mão segurando a lateral da chair e o outro braço ao longo do corpo. Execução: Eleve o quadril para o ar, puxando o pedal com os pés e ativando os músculos laterais do tronco.",
-//               nivel: "Nível: Intermediário",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " paravertebrais", " glúteos"],
-//               imagem: "side_pull_up_chair.jpg",
-//               link: "",
-//               video: "side_pull_up_chair.mp4"
-//           },
+          {
+              nome: "Side Pull Up",
+              descricao: "Posição: Em pé lateralmente na barra de pedal, com uma mão segurando a lateral da chair e o outro braço ao longo do corpo. Execução: Eleve o quadril para o ar, puxando o pedal com os pés e ativando os músculos laterais do tronco.",
+              nivel: "Nível: Intermediário",
+              local: "Local: Chair",
+              musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " paravertebrais", " glúteos"],
+              imagem: "side_pull_up_chair.jpg",
+              link: "RulzmsLXzss",
+              video: "side_pull_up_chair.mp4"
+          },
 //           {
 //             nome: "Single Leg Pump",
 //             descricao: "Posição: Sentado na chair com um pé no pedal e o outro fora da plataforma. Execução: Pressione o pedal para baixo com o pé, estendendo a perna, e depois retorne controladamente.",
@@ -1084,16 +1084,16 @@ let dados = [
 //               link: "",
 //               video: "high_frog_on_chair.mp4"
 //           },
-//           {
-//               nome: "Teaser on the Chair",
-//               descricao: "Posição: Sentado no assento da chair, com as pernas estendidas e os braços segurando o pedal. Execução: Eleve o tronco e as pernas simultaneamente, formando um “V”, enquanto pressiona o pedal.",
-//               nivel: "Nível: Avançado",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " quadríceps", " glúteos"],
-//               imagem: "teaser_on_chair.jpg",
-//               link: "",
-//               video: "teaser_on_chair.mp4"
-//           },
+          {
+              nome: "Teaser on the Chair",
+              descricao: "Posição: Sentado no assento da chair, com as pernas estendidas e os braços segurando o pedal. Execução: Eleve o tronco e as pernas simultaneamente, formando um “V”, enquanto pressiona o pedal.",
+              nivel: "Nível: Avançado",
+              local: "Local: Chair",
+              musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " quadríceps", " glúteos"],
+              imagem: "teaser_on_chair.jpg",
+              link: "33XdlARe54Y",
+              video: "teaser_on_chair.mp4"
+          },
 //           {
 //               nome: "Single Arm Push Up",
 //               descricao: "Posição: Deitado de lado no assento da chair, com uma mão segurando a barra de pedal. Execução: Pressione o pedal para baixo com um braço, mantendo o corpo ereto e o core ativado.",
@@ -1104,16 +1104,16 @@ let dados = [
 //               link: "",
 //               video: "single_arm_push_up_on_chair.mp4"
 //           },
-//           {
-//               nome: "Hip Opener",
-//               descricao: "Posição: De pé, com um pé no pedal e o outro no chão. Execução: Pressione o pedal para baixo enquanto abre lateralmente a perna, alongando a região do quadril.",
-//               nivel: "Nível: Avançado",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Abdutores", " glúteos", " abdômen"],
-//               imagem: "hip_opener_on_chair.jpg",
-//               link: "",
-//               video: "hip_opener_on_chair.mp4"
-//           },
+          {
+              nome: "Roll Back",
+              descricao: "Posição: Sendato na chair de costas para o pedal. Execução: Faça um rolamento para trás até encostar as mãos no pedal e pressione abaixando.",
+              nivel: "Nível: Avançado",
+              local: "Local: Chair",
+              musculosTrabalhados: ["Músculos: Abdutores", " glúteos", " abdômen"],
+              imagem: "Roll Back.jpg",
+              link: "Hou2gcmCojQ",
+              video: "Roll Back.mp4"
+          },
 //           {
 //               nome: "Step Up with Rotation",
 //               descricao: "Posição: Um pé no pedal e o outro no assento da chair, corpo ereto. Execução: Pressione o pedal para baixo enquanto realiza uma rotação do tronco para o lado oposto.",
