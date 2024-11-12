@@ -701,7 +701,7 @@ let dados = [
 //                 // nível básico
                 {
                   nome: "Abdominal Work Upper",
-                  descricao: "Posição: Sentado na chair, com as mãos segurando o pedal e os pés posicionados em cima da cadeira. Execução: Pressione o pedal para baixo com as mãos, mantendo a posição.",
+                  descricao: "Posição: Sentado no chão, com as mãos segurando o pedal e os pés posicionados em cima da cadeira. Execução: Pressione o pedal para baixo com as mãos, mantendo a posição.",
                   nivel: "Nível: Avançado",
                   local: "Local: Chair",
                   musculosTrabalhados: ["Músculos: Alongamento de Isquiotibiais", " abdômen"],
@@ -711,7 +711,7 @@ let dados = [
               },
               {
                   nome: "Frog on the Chair",
-                  descricao: "Posição: Sentado na chair com as pernas dobradas e os pés posicionados no pedal. Execução: Pressione o pedal para baixo estendendo as pernas, mantendo os joelhos abertos e o core ativado.",
+                  descricao: "Posição: Deitado no chão com as pernas dobradas e os pés posicionados no pedal. Execução: Pressione o pedal para baixo estendendo as pernas, mantendo os joelhos abertos e o core ativado.",
                   nivel: "Nível: Básico",
                   local: "Local: Chair",
                   musculosTrabalhados: ["Músculos: Abdômen", " adutores", " quadríceps", " glúteos"],
@@ -741,12 +741,12 @@ let dados = [
               },
               {
                   nome: "Abdominal Work Lower",
-                  descricao: "Posição: Sentado na chair, com as mãos segurando o pedal e os pés posicionados em cima da cadeira. Execução: Pressione o pedal para baixo com as mãos, realizado flexão de tronco com deslocamento para trás.",
+                  descricao: "Posição: Sentado em frente a chair, com as mãos segurando o pedal e os pés posicionados em cima da cadeira. Execução: Pressione o pedal para baixo com as mãos, realizado flexão de tronco com deslocamento para trás.",
                   nivel: "Nível: Avançado",
                   local: "Local: Chair",
                   musculosTrabalhados: ["Músculos: Alongamento de Isquiotibiais", " abdômen"],
                   imagem: "Abdominal Work Lower.jpg",
-                  link: "",
+                  link: "rokE3_o0JXA",
                   video: "Abdominal Work Lower.mp4"
               },
               {
@@ -761,7 +761,7 @@ let dados = [
             },
             {
                 nome: "Standing Pump",
-                descricao: "Posição: Em pé atrás da chair, com um pé no pedal e o outro no chão. Execução: Pressione o pedal para baixo com o pé enquanto mantém o corpo ereto e o core ativado, depois retorne controladamente.",
+                descricao: "Posição: Em pé na frente da chair, com um pé no pedal e o outro no chão. Execução: Pressione o pedal para baixo com o pé enquanto mantém o corpo ereto e o core ativado, depois retorne controladamente.",
                 nivel: "Nível: Básico",
                 local: "Local: Chair",
                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
@@ -801,7 +801,7 @@ let dados = [
             },
             {
               nome: "Twist Lean",
-              descricao: "Posição: Sentado na chair parte de trás com as costas para o pedal. Execução: Realize o movimento rodando o tronco a abaixando até encontrar o pedal com uma das mãos. Abaixe realizandpo a extensão de tronco, abaixando o pedal e elevando a perna no mesmo lado.",
+              descricao: "Posição: Sentado na parte de trás da chair com as costas para o pedal. Execução: Realize o movimento rodando o tronco a abaixando até encontrar o pedal com uma das mãos. Abaixe realizandpo a extensão de tronco, abaixando o pedal e elevando a perna no mesmo lado.",
               nivel: "Nível: Básico",
               local: "Local: Chair",
               musculosTrabalhados: ["Músculos: Panturrilhas", " quadríceps", " glúteos"],
