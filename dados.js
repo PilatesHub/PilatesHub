@@ -1309,16 +1309,26 @@ let dados = [
             link: "JcgVWZZ0YPc",
             video: "leg_circles.mp4"
           },
-          // {
-          //   nome: "Arm Press",
-          //   descricao: "Posição: Deitado de costas com as mãos segurando a barra de mola. Execução: Pressione a barra para baixo com os braços, mantendo os cotovelos próximos ao corpo.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Peitorais", " tríceps", " deltoides"],
-          //   imagem: "arm_press.jpg",
-          //   link: "",
-          //   video: "arm_press.mp4"
-          // },
+          {
+            nome: "Sitting Cat Stretch",
+            descricao: "Posição: Sentado de frente para a Barra. Execução: Empurre a barra realizando uma flexão de coluna e ao final faça a correção.",
+            nivel: "Nível: Básico",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Alongamento de Paravertebrais", " Mobilidade de coluna"],
+            imagem: "Sitting Cat Stretch.jpg",
+            link: "L2HniKCEQbQ",
+            video: "Sitting Cat Stretch.mp4"
+          },
+          {
+            nome: "Sitting Cat Stretch & Rotation",
+            descricao: "Posição: Sentado de frente para a Barra. Execução: Empurre a barra com uma mão e faça uma rotação de tronco, passando a mão oposta rente ao assento.",
+            nivel: "Nível: Básico",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Alongamento de Paravertebrais", " Mobilidade de coluna"],
+            imagem: "Sitting Cat Stretch & Rotation.jpg",
+            link: "Hsp1ZpGEOhM",
+            video: "Sitting Cat Stretch & Rotation.mp4"
+          },
           {
             nome: "Leg Press",
             descricao: "Posição: Deitado de costas com as pernas estendidas e os pés na barra. Execução: Empurre a barra para cima, estendendo as pernas, e depois retorne controladamente.",
@@ -1339,26 +1349,36 @@ let dados = [
             link: "GjjFGpnSCQ4",
             video: "cat_stretch.mp4"
           },
-          // {
-          //   nome: "Shoulder Press",
-          //   descricao: "Posição: Sentado de costas para a barra de molas, com as mãos segurando a barra. Execução: Pressione a barra para baixo, estendendo os braços.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Ombros", " tríceps", " abdômen"],
-          //   imagem: "shoulder_press.jpg",
-          //   link: "",
-          //   video: "shoulder_press.mp4"
-          // },
-          // {
-          //   nome: "Footwork",
-          //   descricao: "Posição: Deitado de costas com os pés na barra de molas. Execução: Pressione a barra para baixo com os pés, estendendo as pernas.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " panturrilhas"],
-          //   imagem: "footwork.jpg",
-          //   link: "",
-          //   video: "footwork.mp4"
-          // },
+          {
+            nome: "Kneeling Cat",
+            descricao: "Posição: De joelhos em cima do cadillac, com as mãos segurando a barra. Execução: Enrole a coluna (flexão) e ao final faça a correção (extensão), mobilizando a coluna.",
+            nivel: "Nível: Básico",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais"],
+            imagem: "Kneeling Cat.jpg",
+            link: "CWPS129bfz0",
+            video: "Kneeling Cat.mp4"
+          },
+          {
+            nome: "Pull-Down",
+            descricao: "Posição: Sentado de costas para a barra de molas, com as mãos segurando a barra. Execução: Puxe a barra para baixo, fletindo os cotovelos.",
+            nivel: "Nível: Básico",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Deltóide", " tríceps", " Tronco"],
+            imagem: "Pull-Down.jpg",
+            link: "WLW__DaGbUc",
+            video: "Pull-Down.mp4"
+          },
+          {
+            nome: "Side Reach",
+            descricao: "Posição: De joelhos em cima do cadillac, com as mãos segurando a barra. Execução: Faça um deslocamento para trás, sem fletir o quadril e ao mesmo tempo rode o tronco realizando um alcance para trás com a uma das mãos.",
+            nivel: "Nível: Básico",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Quadríceps", " tronco"],
+            imagem: "Side Reach.jpg",
+            link: "qAVVWGQhA4Y",
+            video: "Side Reach.mp4"
+          },
           // {
           //   nome: "Seated Push-Through",
           //   descricao: "Posição: Sentado em frente à barra push-through com os braços estendidos. Execução: Empurre a barra para frente enquanto enrole a coluna, depois retorne.",
@@ -1572,6 +1592,28 @@ let dados = [
             link: "p8wY0pJJswc",
             video: "side_lying_leg_lifts.mp4"
           },
+          {
+            nome: "Swan",
+            descricao: "Posição: Deitado em decúbito dorsal com as mãos na barra. Execução: Faça a extensão de tronco com os cotolevos estendidos puxando a barra, sem passar da altura da cabeça.",
+            nivel: "Nível: Intermediário",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Eretores", " Tríceps", " Ombro"],
+            imagem: "swan.jpg",
+            link: "TLKTWXJfsEg",
+            video: "swan.mp4"
+          },
+          {
+            nome: "Overhead Swan",
+            descricao: "Posição: Deitado em decúbito dorsal com as mãos na barra. Execução: Faça a extensão de tronco passando a barra acima da altura da cabeça.",
+            nivel: "Nível: Intermediário",
+            local: "Local: Cadillac",
+            musculosTrabalhados: ["Músculos: Eretores", " Tríceps", " Ombro"],
+            imagem: "overhead swan.jpg",
+            link: "hpZpk_JMsBw",
+            video: "overhead swan.mp4"
+          },
+
+
 
           
           // nível Avançado
@@ -1635,8 +1677,91 @@ let dados = [
             link: "ENL97dPa2cY",
             video: "backbend.mp4"
           },
-          
-          
+
+
+
+
+
+
+// Exercícios no BARREL
+
+{
+  nome: "Round Back",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás realizando uma flexão (rolamento) da coluna.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Round Back.jpg",
+  link: "NrKBQHjz1mA",
+  video: "Round Back.mp4"
+},
+{
+  nome: "Twist",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás realizando uma rotação abrindo o braço para trás.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Twist.jpg",
+  link: "tec-ZHEK0SM",
+  video: "Twist.mp4"
+},
+{
+  nome: "Flat Back",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás mantendo a coluna alinhada.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Flat Back.jpg",
+  link: "1cI9DqtD9gI",
+  video: "Flat Back.mp4"
+},
+{
+  nome: "Spine C-Curve",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás realizando uma flexão (rolamento) da coluna e retorne ao neutro e depois faça uma extensão crescendo a coluna.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " mobilidade de coluna"],
+  imagem: "Spine C-Curve.jpg",
+  link: "g71ytayWFkY",
+  video: "Spine C-Curve.mp4"
+},
+{
+  nome: "Spine Wave",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás mantendo a coluna alinhada e retorne realizando uma flexão (rolamento) e ao final faça a correção por meio de uma extensão de coluna até alinhar ao centro.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " mobilidade de coluna"],
+  imagem: "Spine Wave.jpg",
+  link: "Z7nnn_whB0E",
+  video: "Spine Wave.mp4"
+},
+{
+  nome: "Kayak",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás realizando uma rotação movimentando os braços e retorne na posição inicial.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Kayak.jpg",
+  link: "E9NQkmLvbJs",
+  video: "Kayak.mp4"
+},
+{
+  nome: "Side Sit-Up",
+  descricao: "Posição: Sentado de lado no Barrel com os pés fixados na escada e mãos na cabeça. Execução: Desloque o tronco realizando uma inclinação e retorne para a posição inicial terminando com um rotação de tronco.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Side Sit-Up.jpg",
+  link: "Fon-Vukf0-I",
+  video: "Side Sit-Up.mp4"
+},
+
+
+
+
+
+
+
           
       
   // Sobre Joseph Pilates
