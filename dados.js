@@ -1755,6 +1755,49 @@ let dados = [
   link: "Fon-Vukf0-I",
   video: "Side Sit-Up.mp4"
 },
+{
+  nome: "Side Strength",
+  descricao: "Posição: Apoiado com o quadril de lado no Barrel, com os pés fixados na escada e os joelhos estendidios. Execução: Mantenha o tronco estável e realize o desafio com o movimento de abdução do braço de cima.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Side Strength.jpg",
+  link: "R6NSnds6Sm4",
+  video: "Side Strength.mp4"
+},
+{
+  nome: "Single Leg",
+  descricao: "Posição: Sentado em cima do Barrel, de costas para a escada, com as mãos apoiadas para trás e os joelhos estendidios. Execução: Mantenha o tronco estável e realize o single leg, alternando o movimento das pernas.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " flexores de Quadril", " quadríceps"],
+  imagem: "Single Leg.jpg",
+  link: "rrZjU7lReu0",
+  video: "Single Leg.mp4"
+},
+{
+  nome: "Teaser",
+  descricao: "Posição: Sentado em cima do Barrel, de costas para a escada, com as mãos apoiadas para trás e os joelhos estendidios. Execução: Mantenha o tronco estável e realize o movimento de quadril, mantendo os joelhos estendidos.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " flexores de Quadril", " quadríceps"],
+  imagem: "Teaser.jpg",
+  link: "wG22Qx-w8tk",
+  video: "Teaser.mp4"
+},
+{
+  nome: "Leg Circle",
+  descricao: "Posição: Sentado em cima do Barrel, de costas para a escada, com as mãos apoiadas para trás e os joelhos estendidios. Execução: Mantenha o tronco estável e realize o movimento de rotação no quadril, mantendo os joelhos estendidos.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " flexores de Quadril", " quadríceps"],
+  imagem: "Leg Circle.jpg",
+  link: "BwRAJ0270pI",
+  video: "Leg Circle.mp4"
+},
+
+
+
 
 
 
@@ -1774,6 +1817,189 @@ let dados = [
         imagem: "joseph_pilates.jpg",
         link: "GM1vqkIZYZo",
         video: "joseph_pilates.mp4"
-              }
+              },
+           {
+        nome: "Joseph Pilates - Técnicas de Joseph Pilates",
+        descricao: "Vídeo sobre as Técnicas de Joseph Pilates.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "joseph_pilates.jpg",
+        link: "oAKf77cbYu8",
+        video: "joseph_pilates.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Tribute",
+        descricao: "Vídeo sobre de Tribute a Joseph Pilates.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Tribute.jpg",
+        link: "-DG52tULsO8",
+        video: "Tribute.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Histórico parte 1",
+        descricao: "Vídeo sobre o histórico de Joseph Pilates - parte 1.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Histórico.jpg",
+        link: "SC8eh-bjhwY",
+        video: "Histórico.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Histórico parte 2",
+        descricao: "Vídeo sobre o histórico de Joseph Pilates - parte 2.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Histórico.jpg",
+        link: "mIHc_fp4D8I",
+        video: "Histórico.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Histórico parte 3",
+        descricao: "Vídeo sobre o histórico de Joseph Pilates - parte 3.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Histórico.jpg",
+        link: "TUzbhmnM2Pc",
+        video: "Histórico.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Archival Footage",
+        descricao: "Vídeo sobre arquivo de imagens de Joseph Pilates.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Archival Footage.jpg",
+        link: "YeU_DiT_nhc",
+        video: "Archival Footage.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Workouts",
+        descricao: "Vídeo sobre Workouts com Joseph Pilates.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Workouts.jpg",
+        link: "-wTNsF47HQs",
+        video: "Workouts.mp4"
+              },
+           {
+        nome: "Joseph Pilates - vídeos gerais",
+        descricao: "Vídeo gerais com Joseph Pilates.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "vídeos gerais.jpg",
+        link: "iDHFLN7janc",
+        video: "vídeos gerais.mp4"
+              },
+           {
+        nome: "Joseph Pilates - no Reformer",
+        descricao: "Vídeo de Joseph Pilates no Reformer.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "no Reformer.jpg",
+        link: "3_lAdlFmcVk",
+        video: "no Reformer.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Principios del Reformer",
+        descricao: "Vídeo sobre o Principios del Reformer.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Principios del Reformer.jpg",
+        link: "mzVxfETQmMs",
+        video: "Principios del Reformer.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Wunda Chair",
+        descricao: "Vídeo sobre a Wunda Chair.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Wunda Chair.jpg",
+        link: "2GjDtbvUvQs",
+        video: "Wunda Chair.mp4"
+              },
+           {
+        nome: "Joseph Pilates - aula no Cadillac",
+        descricao: "Vídeo sobre aula de Joseph Pilates no Cadillac.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "aula no Cadillac.jpg",
+        link: "74-tNrb2Vpw",
+        video: "aula no Cadillac.mp4"
+              },
+           {
+        nome: "Joseph Pilates - Corrector Espinal",
+        descricao: "Vídeo sobre Joseph Pilates no Corrector Espinal.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Corrector Espinal.jpg",
+        link: "jvQGhubiPuE",
+        video: "Corrector Espinal.mp4"
+              },
+
+
+           {
+        nome: "Romana Kryzanowska",
+        descricao: "Vídeo sobre Romana Kryzanowska. Romana estudou balé quando criança. Aos 16 anos, enquanto estudava na Escola de Balé Americano de George Balanchine , ela sofreu uma lesão no tornozelo e foi levada por Balanchine a Joseph Pilates para ver se exercícios em vez de uma operação resolveriam o problema. Os exercícios foram um sucesso e ela continuou a estudar com Pilates. Romana Kryzanowska se tornou a protegida de Pilates.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Romana Kryzanowska.jpg",
+        link: "YRX_KaPZLUk",
+        video: "Romana Kryzanowska.mp4"
+              },
+           {
+        nome: "Histórico Romana Kryzanowska - Parte 1",
+        descricao: "Vídeo sobre o Histórico de Romana Kryzanowska - Parte 1.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Histórico Romana Kryzanowska - Parte 1.jpg",
+        link: "0-_4mdmFiB4",
+        video: "Histórico Romana Kryzanowska - Parte 1.mp4"
+              },
+           {
+        nome: "Histórico Romana Kryzanowska - Parte 2",
+        descricao: "Vídeo sobre o Histórico de Romana Kryzanowska - Parte 2.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Histórico Romana Kryzanowska - Parte 2.jpg",
+        link: "yPyMf4dcczQ",
+        video: "Histórico Romana Kryzanowska - Parte 2.mp4"
+              },
+           {
+        nome: "Histórico Romana Kryzanowska - Parte 3",
+        descricao: "Vídeo sobre o Histórico de Romana Kryzanowska - Parte 3.",
+        nivel: "",
+        local: "",
+        musculosTrabalhados: [""],
+        imagem: "Histórico Romana Kryzanowska - Parte 3.jpg",
+        link: "MGdqxeqBl_Q",
+        video: "Histórico Romana Kryzanowska - Parte 3.mp4"
+              },
+
+
+
+
+
+
+
+
+
+                 
+        
 ];
 
