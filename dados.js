@@ -696,7 +696,7 @@ let dados = [
                         link: "naxsHoeWCDY",
                         video: "reverse_knee_stretch.mp4"
                         },
-                        
+                      //  Reformer = 26 
 // // Exercícios no CHAIR
 //                 // nível básico
                 {
@@ -819,158 +819,6 @@ let dados = [
               link: "Eb0TWWcet8E",
               video: "Sitting Balanced Toe Taps.mp4"
           },
-//           {
-//               nome: "Leg Circles",
-//               descricao: "Posição: Deitado de costas no assento da chair com um pé no pedal. Execução: Faça pequenos círculos com a perna, mantendo o controle do pedal com o pé.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Quadríceps", " abdômen", " glúteos"],
-//               imagem: "leg_circles_chair.jpg",
-//               link: "",
-//               video: "leg_circles_chair.mp4"
-//           },
-//           {
-//               nome: "Toe Taps",
-//               descricao: "Posição: Sentado na chair com a coluna ereta, um pé no pedal e o outro tocando o chão. Execução: Pressione o pedal para baixo com a ponta do pé e, em seguida, retorne.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " panturrilhas"],
-//               imagem: "toe_taps_chair.jpg",
-//               link: "",
-//               video: "toe_taps_chair.mp4"
-//           },
-//           {
-//               nome: "Cat Stretch",
-//               descricao: "Posição: De joelhos na frente da chair, com as mãos no assento. Execução: Arqueie as costas para cima enquanto contrai o abdômen, depois relaxe a coluna.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Paravertebrais", " abdômen", " ombros"],
-//               imagem: "cat_stretch_chair.jpg",
-//               link: "",
-//               video: "cat_stretch_chair.mp4"
-//           },
-//           {
-//               nome: "Side Leg Press",
-//               descricao: "Posição: Deitado de lado na chair com um pé no pedal e o outro estendido para fora. Execução: Pressione o pedal para baixo com o pé, mantendo o tronco estável.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Quadríceps", " abdômen", " glúteos"],
-//               imagem: "side_leg_press_chair.jpg",
-//               link: "",
-//               video: "side_leg_press_chair.mp4"
-//           },
-//           {
-//               nome: "Shoulder Shrugs",
-//               descricao: "Posição: Sentado na chair com as mãos segurando a barra de pedal e os braços estendidos. Execução: Pressione o pedal para baixo e eleve os ombros em direção às orelhas.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Trapézio", " deltoides", " peitorais"],
-//               imagem: "shoulder_shrugs_chair.jpg",
-//               link: "",
-//               video: "shoulder_shrugs_chair.mp4"
-//           },
-//           {
-//               nome: "Leg Lifts",
-//               descricao: "Posição: Deitado de costas no assento da chair, com as pernas estendidas. Execução: Levante uma perna de cada vez, mantendo a outra no pedal.",
-//               nivel: "Nível: Básico",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//               imagem: "leg_lifts_chair.jpg",
-//               link: "",
-//               video: "leg_lifts_chair.mp4"
-//           },                      
-
-//               // nível Intermediário
-//               {
-//                 nome: "Mermaid on the Chair",
-//                 descricao: "Posição: Sentado de lado na chair, com um braço segurando o pedal e o outro ao longo do corpo. Execução: Pressione o pedal para baixo enquanto inclina o tronco lateralmente, realizando um alongamento lateral da coluna.",
-//                 nivel: "Nível: Intermediário",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Oblíquos", " paravertebrais", " abdômen"],
-//                 imagem: "mermaid_on_the_chair.jpg",
-//                 link: "",
-//                 video: "mermaid_on_the_chair.mp4"
-//             },
-//             {
-//                 nome: "Scissors",
-//                 descricao: "Posição: Deitado de costas no assento da chair, com as mãos segurando as laterais da chair e os pés no pedal. Execução: Pressione o pedal com um pé enquanto alterna as pernas em um movimento de tesoura.",
-//                 nivel: "Nível: Intermediário",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos", " flexores do quadril"],
-//                 imagem: "scissors_on_chair.jpg",
-//                 link: "",
-//                 video: "scissors_on_chair.mp4"
-//             },
-//             {
-//                 nome: "Side Stretch",
-//                 descricao: "Posição: Sentado lateralmente na chair, com as pernas cruzadas e uma mão segurando o pedal. Execução: Pressione o pedal para baixo com o braço enquanto inclina o tronco lateralmente, alongando a coluna.",
-//                 nivel: "Nível: Intermediário",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Oblíquos", " paravertebrais", " abdômen"],
-//                 imagem: "side_stretch_on_chair.jpg",
-//                 link: "",
-//                 video: "side_stretch_on_chair.mp4"
-//             },
-//             {
-//                 nome: "Reverse Lunge",
-//                 descricao: "Posição: Um pé no assento da chair e o outro no pedal. Execução: Pressione o pedal para baixo enquanto realiza uma estocada, mantendo o corpo ereto e o core ativado.",
-//                 nivel: "Nível: Intermediário",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//                 imagem: "reverse_lunge_on_chair.jpg",
-//                 link: "",
-//                 video: "reverse_lunge_on_chair.mp4"
-//             },
-//             {
-//                 nome: "Standing Leg Pump Side",
-//                 descricao: "Posição: Em pé de lado para a chair, com um pé no pedal e o outro no chão. Execução: Pressione o pedal para baixo lateralmente com o pé, mantendo o corpo estável.",
-//                 nivel: "Nível: Intermediário",
-//                 local: "Local: Chair",
-//                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//                 imagem: "standing_leg_pump_side.jpg",
-//                 link: "",
-//                 video: "standing_leg_pump_side.mp4"
-//             },
-//             {
-//               nome: "Mountain Climber",
-//               descricao: "Posição: Em prancha, com as mãos no assento da chair e um pé no pedal. Execução: Pressione o pedal para baixo com um pé enquanto alterna a posição das pernas, como em um movimento de escalada.",
-//               nivel: "Nível: Intermediário",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " quadríceps", " ombros"],
-//               imagem: "mountain_climber_chair.jpg",
-//               link: "",
-//               video: "mountain_climber_chair.mp4"
-//           },
-//           {
-//               nome: "Pull Up",
-//               descricao: "Posição: De pé na barra de pedal com as mãos segurando as laterais da chair e as pernas estendidas. Execução: Eleve o quadril para cima enquanto puxa o pedal com os pés, mantendo o core ativado.",
-//               nivel: "Nível: Intermediário",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " paravertebrais"],
-//               imagem: "pull_up_chair.jpg",
-//               link: "",
-//               video: "pull_up_chair.mp4"
-//           },
-//           {
-//               nome: "Pike",
-//               descricao: "Posição: De pé na barra de pedal, com as mãos no assento da chair e a coluna arredondada. Execução: Eleve o quadril para cima, puxando o pedal com os pés e mantendo a cabeça entre os braços.",
-//               nivel: "Nível: Intermediário",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " paravertebrais", " ombros"],
-//               imagem: "pike_chair.jpg",
-//               link: "",
-//               video: "pike_chair.mp4"
-//           },
-//           {
-//               nome: "Swan",
-//               descricao: "Posição: Deitado de bruços no assento da chair, com as mãos na barra de pedal e as pernas estendidas. Execução: Pressione o pedal para baixo com as mãos enquanto eleva o peito e a cabeça em uma curva suave de extensão da coluna.",
-//               nivel: "Nível: Intermediário",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " ombros"],
-//               imagem: "swan_chair.jpg",
-//               link: "",
-//               video: "swan_chair.mp4"
-//           },
           {
             nome: "Double Leg Stretch",
             descricao: "Posição: Sentado no assento da Chair segurando no apoio, com as pernas fletidas. Execução: Realize o movimento estendendo os joelhos, mantendo o tronco estável e o abdômen contraído.",
@@ -1011,89 +859,6 @@ let dados = [
             link: "PFWDhlXwOxU",
             video: "Standing Tríceps Movement.mp4"
           },
-
-//           {
-//             nome: "Elevação de Glúteos",
-//             descricao: "Posição: Sentado na chair com os pés no pedal e as pernas dobradas. Execução: Levante o quadril, empurrando o pedal para baixo, e depois retorne à posição inicial.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " abdômen"],
-//             imagem: "hip_lifts_chair.jpg",
-//             link: "",
-//             video: "hip_lifts_chair.mp4"
-//         },
-//         {
-//             nome: "Mermaid Stretch",
-//             descricao: "Posição: Sentado de lado na chair, com uma mão no pedal e a outra ao lado do corpo. Execução: Alongue o corpo lateralmente, pressionando o pedal para baixo com o braço e esticando o tronco.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " paravertebrais"],
-//             imagem: "mermaid_stretch_chair.jpg",
-//             link: "",
-//             video: "mermaid_stretch_chair.mp4"
-//         },
-//         {
-//             nome: "Reverse Lunge",
-//             descricao: "Posição: Em pé de costas para a chair, com um pé no pedal e o outro no chão. Execução: Afunde o corpo para baixo, pressionando o pedal, e depois retorne à posição inicial.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais"],
-//             imagem: "reverse_lunge_chair.jpg",
-//             link: "",
-//             video: "reverse_lunge_chair.mp4"
-//         },
-//         {
-//             nome: "Hamstring Press",
-//             descricao: "Posição: Deitado de costas no assento da chair com um pé no pedal. Execução: Pressione o pedal para baixo, estendendo a perna, e depois retorne controladamente.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Isquiotibiais", " glúteos", " abdômen"],
-//             imagem: "hamstring_press_chair.jpg",
-//             link: "",
-//             video: "hamstring_press_chair.mp4"
-//         },
-//         {
-//             nome: "Side Leg Raise",
-//             descricao: "Posição: Deitado de lado no assento da chair, com uma mão apoiada na barra de pedal. Execução: Levante a perna lateralmente, mantendo o controle do movimento e o core ativado.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Glúteos", " abdômen", " quadríceps"],
-//             imagem: "side_leg_raise_chair.jpg",
-//             link: "",
-//             video: "side_leg_raise_chair.mp4"
-//         },
-//         {
-//             nome: "Kneeling Push Up",
-//             descricao: "Posição: Ajoelhado em frente à chair com as mãos segurando a barra de pedal. Execução: Pressione o pedal para baixo, realizando uma flexão de braços controlada, e depois retorne à posição inicial.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Peitorais", " tríceps", " deltoides"],
-//             imagem: "kneeling_push_up_chair.jpg",
-//             link: "",
-//             video: "kneeling_push_up_chair.mp4"
-//         },
-//         {
-//             nome: "Plank to Pike",
-//             descricao: "Posição: Em prancha com as mãos no assento da chair e os pés no pedal. Execução: Eleve o quadril para cima em direção ao pique, puxando o pedal com os pés, e depois retorne à prancha.",
-//             nivel: "Nível: Intermediário",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " ombros"],
-//             imagem: "plank_to_pike_chair.jpg",
-//             link: "",
-//             video: "plank_to_pike_chair.mp4"
-//         },
-//         {
-//           nome: "Twist and Reach",
-//           descricao: "Posição: Sentado de lado na chair com um braço segurando o pedal e o outro estendido. Execução: Pressione o pedal para baixo enquanto torce o tronco em direção à perna oposta, depois retorne controladamente.",
-//           nivel: "Nível: Intermediário",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Oblíquos", " abdômen", " paravertebrais"],
-//           imagem: "twist_and_reach_chair.jpg",
-//           link: "",
-//           video: "twist_and_reach_chair.mp4"
-//         },
-          
-                    
 //             // nível Avançado
             {
               nome: "Sitting Pull Up",
@@ -1115,16 +880,6 @@ let dados = [
               link: "33XdlARe54Y",
               video: "teaser_on_chair.mp4"
           },
-//           {
-//               nome: "Single Arm Push Up",
-//               descricao: "Posição: Deitado de lado no assento da chair, com uma mão segurando a barra de pedal. Execução: Pressione o pedal para baixo com um braço, mantendo o corpo ereto e o core ativado.",
-//               nivel: "Nível: Avançado",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Peitorais", " tríceps", " deltoides", " abdômen"],
-//               imagem: "single_arm_push_up_on_chair.jpg",
-//               link: "",
-//               video: "single_arm_push_up_on_chair.mp4"
-//           },
           {
               nome: "Roll Back",
               descricao: "Posição: Sendato na chair de costas para o pedal. Execução: Faça um rolamento para trás até encostar as mãos no pedal e pressione abaixando.",
@@ -1135,160 +890,9 @@ let dados = [
               link: "Hou2gcmCojQ",
               video: "Roll Back.mp4"
           },
-//           {
-//               nome: "Step Up with Rotation",
-//               descricao: "Posição: Um pé no pedal e o outro no assento da chair, corpo ereto. Execução: Pressione o pedal para baixo enquanto realiza uma rotação do tronco para o lado oposto.",
-//               nivel: "Nível: Avançado",
-//               local: "Local: Chair",
-//               musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen", " oblíquos"],
-//               imagem: "step_up_with_rotation_on_chair.jpg",
-//               link: "",
-//               video: "step_up_with_rotation_on_chair.mp4"
-//           },
-//           {
-//             nome: "Going Up Front",
-//             descricao: "Posição: Um pé no pedal e o outro no assento da chair, corpo ereto. Execução: Pressione o pedal para baixo com o pé e eleve o corpo em direção ao assento da chair, como se estivesse subindo uma escada.",
-//             nivel: "Nível: Avançado",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//             imagem: "going_up_front_chair.jpg",
-//             link: "",
-//             video: "going_up_front_chair.mp4"
-//         },
-//         {
-//             nome: "Going Up Side",
-//             descricao: "Posição: Um pé no pedal e o outro no assento da chair, lateralmente. Execução: Pressione o pedal para baixo com o pé, mantendo o corpo lateralmente alinhado e o core ativado.",
-//             nivel: "Nível: Avançado",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen", " oblíquos"],
-//             imagem: "going_up_side_chair.jpg",
-//             link: "",
-//             video: "going_up_side_chair.mp4"
-//         },
-//         {
-//             nome: "Tendon Stretch",
-//             descricao: "Posição: Em pé no pedal com as mãos no assento da chair e a coluna arredondada. Execução: Eleve o quadril e pressione o pedal com os pés para baixo, mantendo o tronco estável.",
-//             nivel: "Nível: Avançado",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Isquiotibiais", " glúteos", " abdômen"],
-//             imagem: "tendon_stretch_chair.jpg",
-//             link: "",
-//             video: "tendon_stretch_chair.mp4"
-//         },
-//         {
-//             nome: "Handstand",
-//             descricao: "Posição: De frente para a chair, com as mãos no assento e os pés na barra de pedal. Execução: Eleve o corpo em uma posição de parada de mãos, controlando a pressão do pedal com os pés e mantendo o core ativado.",
-//             nivel: "Nível: Avançado",
-//             local: "Local: Chair",
-//             musculosTrabalhados: ["Músculos: Ombros", " abdômen", " glúteos", " paravertebrais"],
-//             imagem: "handstand_chair.jpg",
-//             link: "",
-//             video: "handstand_chair.mp4"
-//         },
-//         {
-//            nome: "Jackknife",
-//            descricao: "Posição: Deitado de costas no assento da chair, com os pés na barra de pedal. Execução: Eleve o quadril para o ar enquanto pressiona o pedal com os pés, mantendo as pernas estendidas.",
-//            nivel: "Nível: Avançado",
-//            local: "Local: Chair",
-//            musculosTrabalhados: ["Músculos: Abdômen", " paravertebrais", " glúteos"],
-//            imagem: "jackknife_chair.jpg",
-//            link: "",
-//            video: "jackknife_chair.mp4"
-//         },
-//         {
-//            nome: "Step Down",
-//            descricao: "Posição: Em pé na chair com um pé no assento e o outro no pedal. Execução: Pressione o pedal para baixo com o pé enquanto mantém o corpo ereto e controlado, depois retorne à posição inicial.",
-//            nivel: "Nível: Avançado",
-//            local: "Local: Chair",
-//            musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " abdômen"],
-//            imagem: "step_down_chair.jpg",
-//            link: "",
-//            video: "step_down_chair.mp4"
-//         },
-//         {
-//           nome: "Scissors",
-//           descricao: "Posição: Deitado de costas no assento da chair com as pernas estendidas no ar. Execução: Alterne as pernas, uma descendo em direção ao pedal e a outra subindo, mantendo o controle e a estabilidade do core.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos"],
-//           imagem: "scissors_chair.jpg",
-//           link: "",
-//           video: "scissors_chair.mp4"
-//       },
-//       {
-//           nome: "High Bridge",
-//           descricao: "Posição: Deitado de costas com os pés no pedal e os braços estendidos ao lado do corpo. Execução: Levante o quadril até formar uma ponte alta, pressionando o pedal para baixo.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Paravertebrais", " glúteos", " isquiotibiais"],
-//           imagem: "high_bridge_chair.jpg",
-//           link: "",
-//           video: "high_bridge_chair.mp4"
-//       },
-//       {
-//           nome: "Advanced Hamstring Curl",
-//           descricao: "Posição: Deitado de costas com os pés na barra de pedal. Execução: Puxe o pedal para baixo enquanto flexiona os joelhos, mantendo o quadril elevado.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Isquiotibiais", " glúteos", " abdômen"],
-//           imagem: "advanced_hamstring_curl_chair.jpg",
-//           link: "",
-//           video: "advanced_hamstring_curl_chair.mp4"
-//       },
-//       {
-//           nome: "Leg Pull Front",
-//           descricao: "Posição: Em prancha com as mãos no assento da chair e os pés no chão. Execução: Levante uma perna de cada vez, mantendo a prancha estável e o core ativado.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " quadríceps"],
-//           imagem: "leg_pull_front_chair.jpg",
-//           link: "",
-//           video: "leg_pull_front_chair.mp4"
-//       },
-//       {
-//           nome: "Side Plank Press",
-//           descricao: "Posição: Em prancha lateral com uma mão no assento da chair e os pés no pedal. Execução: Pressione o pedal para baixo enquanto mantém o corpo alinhado lateralmente.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Oblíquos", " glúteos", " abdômen"],
-//           imagem: "side_plank_press_chair.jpg",
-//           link: "",
-//           video: "side_plank_press_chair.mp4"
-//       },
-//       {
-//           nome: "Control Balance",
-//           descricao: "Posição: Deitado de costas no assento da chair com as pernas estendidas. Execução: Eleve as pernas para o ar e desça controladamente uma perna de cada vez em direção ao pedal.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Abdômen", " quadríceps", " glúteos"],
-//           imagem: "control_balance_chair.jpg",
-//           link: "",
-//           video: "control_balance_chair.mp4"
-//       },
-//       {
-//           nome: "Handstand Pike",
-//           descricao: "Posição: De frente para a chair com as mãos no assento e os pés no pedal. Execução: Eleve o quadril até a posição de pique, mantendo a estabilidade no core e a pressão do pedal controlada.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Ombros", " abdômen", " glúteos"],
-//           imagem: "handstand_pike_chair.jpg",
-//           link: "",
-//           video: "handstand_pike_chair.mp4"
-//       },
-//       {
-//           nome: "Twisting Pike",
-//           descricao: "Posição: De frente para a chair em prancha, com as mãos no assento e os pés no pedal. Execução: Eleve o quadril para cima enquanto torce o tronco para um dos lados, mantendo o controle e retornando à prancha.",
-//           nivel: "Nível: Avançado",
-//           local: "Local: Chair",
-//           musculosTrabalhados: ["Músculos: Abdômen", " glúteos", " paravertebrais"],
-//           imagem: "twisting_pike_chair.jpg",
-//           link: "",
-//           video: "twisting_pike_chair.mp4"
-//       },
-
+              //  Chair = 19
 // Exercícios no CADILLAC
           // nível básico
-
           {
             nome: "Roll Down",
             descricao: "Posição: Sentado de frente para a barra de roll down, segurando a barra com os braços estendidos. Execução: Enrole a coluna para trás, abaixando lentamente até deitar no Cadillac, depois retorne à posição inicial.",
@@ -1379,86 +983,6 @@ let dados = [
             link: "qAVVWGQhA4Y",
             video: "Side Reach.mp4"
           },
-          // {
-          //   nome: "Seated Push-Through",
-          //   descricao: "Posição: Sentado em frente à barra push-through com os braços estendidos. Execução: Empurre a barra para frente enquanto enrole a coluna, depois retorne.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Abdômen", " ombros"],
-          //   imagem: "seated_push_through.jpg",
-          //   link: "",
-          //   video: "seated_push_through.mp4"
-          // },
-          // {
-          //   nome: "Bridging",
-          //   descricao: "Posição: Deitado de costas com os pés na barra de molas. Execução: Eleve o quadril até formar uma ponte e abaixe controladamente.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais", " paravertebrais"],
-          //   imagem: "bridging.jpg",
-          //   link: "",
-          //   video: "bridging.mp4"
-          // },
-          // {
-          //   nome: "Single Leg Stretch",
-          //   descricao: "Posição: Deitado de costas com uma perna estendida e a outra segurando a alça. Execução: Alterne as pernas em um movimento de estiramento enquanto mantém o core ativado.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Abdômen", " quadríceps"],
-          //   imagem: "single_leg_stretch.jpg",
-          //   link: "",
-          //   video: "single_leg_stretch.mp4"
-          // },
-          // {
-          //   nome: "Breathing",
-          //   descricao: "Posição: Deitado de costas com as pernas estendidas e as alças nos pés. Execução: Respire profundamente enquanto pressiona as alças para baixo, mantendo o core ativo.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Abdômen", " quadríceps"],
-          //   imagem: "breathing.jpg",
-          //   link: "",
-          //   video: "breathing.mp4"
-          // },
-          // {
-          //   nome: "Triceps Press",
-          //   descricao: "Posição: Sentado com as mãos segurando as alças. Execução: Pressione as alças para baixo, estendendo os braços.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Tríceps", " deltoides"],
-          //   imagem: "triceps_press.jpg",
-          //   link: "",
-          //   video: "triceps_press.mp4"
-          // },
-          // {
-          //   nome: "Standing Arm Series",
-          //   descricao: "Posição: Em pé de frente para a barra de molas, segurando as alças. Execução: Puxe as alças em direção ao corpo e retorne controladamente.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Ombros", " bíceps"],
-          //   imagem: "standing_arm_series.jpg",
-          //   link: "",
-          //   video: "standing_arm_series.mp4"
-          // },
-          // {
-          //   nome: "Side Leg Press",
-          //   descricao: "Posição: Deitado de lado com a perna superior na alça. Execução: Pressione a perna para baixo enquanto mantém o tronco estável.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Abdutores", " glúteos", " abdômen"],
-          //   imagem: "side_leg_press.jpg",
-          //   link: "",
-          //   video: "side_leg_press.mp4"
-          // },
-          // {
-          //   nome: "Hip Extension",
-          //   descricao: "Posição: Deitado de costas com as pernas estendidas e os pés nas alças. Execução: Eleve o quadril e pressione as alças para baixo com os pés.",
-          //   nivel: "Nível: Básico",
-          //   local: "Local: Cadillac",
-          //   musculosTrabalhados: ["Músculos: Glúteos", " isquiotibiais"],
-          //   imagem: "hip_extension.jpg",
-          //   link: "",
-          //   video: "hip_extension.mp4"
-          // },
 
           // nível Intermediário
           
@@ -1612,9 +1136,6 @@ let dados = [
             link: "hpZpk_JMsBw",
             video: "overhead swan.mp4"
           },
-
-
-
           
           // nível Avançado
           {
@@ -1677,11 +1198,7 @@ let dados = [
             link: "ENL97dPa2cY",
             video: "backbend.mp4"
           },
-
-
-
-
-
+          // Cadillac = 30
 
 // Exercícios no BARREL
 
@@ -1795,7 +1312,38 @@ let dados = [
   link: "BwRAJ0270pI",
   video: "Leg Circle.mp4"
 },
+{
+  nome: "Teaser Twist",
+  descricao: "Posição: Sentado em cima do Barrel, de costas para a escada, com as mãos apoiadas para trás e os joelhos estendidios. Execução: Mantenha o tronco estável e realize o movimento de rotação troco levando a mão em direção ao joelho oposto. Retorne e alterne os lados.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " flexores de Quadril", " quadríceps", " MMSS"],
+  imagem: "Teaser Twist.jpg",
+  link: "vxdNz9W9ErQ",
+  video: "Teaser Twist.mp4"
+},
+{
+  nome: "Bent Elbow",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás realizando uma flexão (rolamento) da coluna e retorne ao neutro e depois faça uma extensão de coluna com os braços e flexão de ombro.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " mobilidade de coluna"],
+  imagem: "Bent Elbow.jpg",
+  link: "hDrtITzscKI",
+  video: "Bent Elbow.mp4"
+},
+{
+  nome: "Side Bend",
+  descricao: "Posição: Em pé de lado no Barrel com os pés fixados na escada e mãos segurando um bastão. Execução: Estabilize o tronco realizando uma inclinação juntamente com os MMSS.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " Quadrado Lombar", " MMSS"],
+  imagem: "Side Bend.jpg",
+  link: "p_Uomtw-QBw",
+  video: "Side Bend.mp4"
+},
 
+      // Barrel = 15
 
 
 
@@ -1949,7 +1497,7 @@ let dados = [
         video: "Corrector Espinal.mp4"
               },
 
-
+              // Romana Kryzanowska
            {
         nome: "Romana Kryzanowska",
         descricao: "Vídeo sobre Romana Kryzanowska. Romana estudou balé quando criança. Aos 16 anos, enquanto estudava na Escola de Balé Americano de George Balanchine , ela sofreu uma lesão no tornozelo e foi levada por Balanchine a Joseph Pilates para ver se exercícios em vez de uma operação resolveriam o problema. Os exercícios foram um sucesso e ela continuou a estudar com Pilates. Romana Kryzanowska se tornou a protegida de Pilates.",
