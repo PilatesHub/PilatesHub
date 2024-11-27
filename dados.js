@@ -429,6 +429,8 @@ let dados = [
                 link: "Ny0qFffcemg",
                 video: "push_up_series.mp4"
                 },
+
+                // SOLO = 43
                 
 // Exercícios no REFORMER
                 // nível básico
@@ -697,6 +699,9 @@ let dados = [
                         video: "reverse_knee_stretch.mp4"
                         },
                       //  Reformer = 26 
+
+
+
 // // Exercícios no CHAIR
 //                 // nível básico
                 {
@@ -751,7 +756,7 @@ let dados = [
               },
               {
                 nome: "Footwork",
-                descricao: "Posição: Sentado na chair com a coluna ereta e os pés posicionados na barra de pedal. Execução: Pressione a barra para baixo com os pés, estendendo as pernas, e depois retorne à posição inicial controladamente.",
+                descricao: "Posição: Sentado na chair com a coluna ereta e os pés posicionados no pedal. Execução: Pressione a barra para baixo com os pés, estendendo as pernas, e depois retorne à posição inicial controladamente.",
                 nivel: "Nível: Básico",
                 local: "Local: Chair",
                 musculosTrabalhados: ["Músculos: Quadríceps", " glúteos", " isquiotibiais", " panturrilhas"],
@@ -819,6 +824,39 @@ let dados = [
               link: "Eb0TWWcet8E",
               video: "Sitting Balanced Toe Taps.mp4"
           },
+          {
+            nome: "Leg Press Down",
+            descricao: "Posição: Sentado na chair com a coluna ereta e os pés posicionados no pedal. Execução: Pressione o pedal para baixo mantendo o tronco alinhado.",
+            nivel: "Nível: Básico",
+            local: "Local: Chair",
+            musculosTrabalhados: ["Músculos: Quadríceps", " Tronco"],
+            imagem: "Leg Press Down.jpg",
+            link: "j_ko5hxEPOU",
+            video: "Leg Press Down.mp4"
+          },
+          {
+            nome: "Leg Press Down With Arm",
+            descricao: "Posição: Sentado na chair com a coluna ereta e os pés posicionados no pedal e as mãos para cima. Execução: Pressione o pedal para baixo com os braços para cima e retorne o pedal abaixando os braços.",
+            nivel: "Nível: Básico",
+            local: "Local: Chair",
+            musculosTrabalhados: ["Músculos: Quadríceps", " Tronco"],
+            imagem: "Leg Press Down With Arm.jpg",
+            link: "ICIu5PrvMt4",
+            video: "Leg Press Down With Arm.mp4"
+          },
+          {
+            nome: "Prone Scapular",
+            descricao: "Posição: Deitado em ventral na chair com a coluna ereta, os pés posicionados para fora e as mãos no pedal. Execução: Com os cotolevos estendidos, realize o movimento de protração empurrando o pedal para baixo e retorne.",
+            nivel: "Nível: Intermediário",
+            local: "Local: Chair",
+            musculosTrabalhados: ["Músculos: Tronco", " Serrátil"],
+            imagem: "Prone Scapular.jpg",
+            link: "62xbhYRhyT0",
+            video: "Prone Scapular.mp4"
+          },
+
+
+
           {
             nome: "Double Leg Stretch",
             descricao: "Posição: Sentado no assento da Chair segurando no apoio, com as pernas fletidas. Execução: Realize o movimento estendendo os joelhos, mantendo o tronco estável e o abdômen contraído.",
@@ -890,7 +928,10 @@ let dados = [
               link: "Hou2gcmCojQ",
               video: "Roll Back.mp4"
           },
-              //  Chair = 19
+              //  Chair = 22
+
+
+
 // Exercícios no CADILLAC
           // nível básico
           {
@@ -1198,7 +1239,11 @@ let dados = [
             link: "ENL97dPa2cY",
             video: "backbend.mp4"
           },
-          // Cadillac = 30
+          // Cadillac = 32
+
+
+
+
 
 // Exercícios no BARREL
 
@@ -1342,8 +1387,59 @@ let dados = [
   link: "p_Uomtw-QBw",
   video: "Side Bend.mp4"
 },
+{
+  nome: "Straight Back",
+  descricao: "Posição: Sentado no Barrel com os pés fixados na escada. Execução: Desloque o tronco para trás mantendo a coluna alinhada e movimente o braço.",
+  nivel: "Nível: Avançado",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen"],
+  imagem: "Straight Back.jpg",
+  link: "8iEI1rlqSNU",
+  video: "Straight Back.mp4"
+},
+{
+  nome: "Shoulder Stretch",
+  descricao: "Posição: Em pé na frente do Barrel com o tronco levemente deslocado para frente e as mãos apoiadas. Execução: Desloque o tronco para trás agachando e delocando o quadril para trás, mantendo as mãos aopiadas no barrel, alongando os ombros.",
+  nivel: "Nível: Básico",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: mobilidade de ombro"],
+  imagem: "Shoulder Stretch.jpg",
+  link: "vqShIP1g9TM",
+  video: "Shoulder Stretch.mp4"
+},
+{
+  nome: "Shoulder Stretch with Rotation",
+  descricao: "Posição: Em pé na frente do Barrel com o tronco levemente deslocado para frente e as mãos apoiadas. Execução: Desloque o tronco para trás agachando e delocando o quadril para trás, mantendo as mãos aopiadas no barrel, alongando os ombros. Abra um dos braços para a lateral e passe por baixo, realizando a rotação de tornco.",
+  nivel: "Nível: Básico",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: mobilidade de ombro"],
+  imagem: "Shoulder Stretch with Rotation.jpg",
+  link: "ITClG4Rdfm0",
+  video: "Shoulder Stretch with Rotation.mp4"
+},
+{
+  nome: "Sit-Up",
+  descricao: "Posição: Em pé de lado no Barrel com os pés fixados na escada e mãos posicionadas na nuca. Execução: Estabilize o tronco realizando uma inclinação de tronco.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " Quadrado Lombar"],
+  imagem: "Sit-Up.jpg",
+  link: "CVikOfXjsa4",
+  video: "Sit-Up.mp4"
+},
+{
+  nome: "Sit-Up Rotation",
+  descricao: "Posição: Em pé de lado no Barrel com os pés fixados na escada e mãos posicionadas na nuca. Execução: Estabilize o tronco realizando uma inclinação de tronco, retorne a posicição inicial e realize uma rotação.",
+  nivel: "Nível: Intermediário",
+  local: "Local: Barrel",
+  musculosTrabalhados: ["Músculos: abdômen", " Quadrado Lombar"],
+  imagem: "Sit-Up Rotation.jpg",
+  link: "BsWOaWfOqBs",
+  video: "Sit-Up Rotation.mp4"
+},
 
-      // Barrel = 15
+
+      // Barrel = 20
 
 
 
