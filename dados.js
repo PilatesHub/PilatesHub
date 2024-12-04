@@ -1441,7 +1441,316 @@ let dados = [
 
       // Barrel = 20
 
+  // Bola
+  {
+    nome: "Pilates Workout with a Stability Ball",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Pilates Workout with a Stability Ball.jpg",
+    link: "xqp6tjx-ACI",
+    video: "Pilates Workout with a Stability Ball.mp4"
+  },
+  {
+    nome: "Stability Ball Workout 1",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Stability Ball Workout 1.jpg",
+    link: "Ij5iI8vkfeQ",
+    video: "Stability Ball Workout 1.mp4"
+  },
+  {
+    nome: "Stability Ball Workout 2",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Stability Ball Workout 2.jpg",
+    link: "k_Waa0veSCE",
+    video: "Stability Ball Workout 2.mp4"
+  },  
+  {
+    nome: "Exercise Ball Workout",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Exercise Ball Workout.jpg",
+    link: "BV77CTJzobo",
+    video: "Exercise Ball Workout.mp4"
+  },
+  {
+    nome: "Exercise Ball",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Exercise Ball.jpg",
+    link: "8Z4JWBV4ECo",
+    video: "Exercise Ball.mp4"
+  },
+  {
+    nome: "Exercise Ball Workout for Balance & Core Strength",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Exercise Ball Workout for Balance & Core Strength.jpg",
+    link: "zjKhcKddeec",
+    video: "Exercise Ball Workout for Balance & Core Strength.mp4"
+  },
+  {
+    nome: "Pilates Abs & Balance Ball Workout",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Pilates Abs & Balance Ball Workout.jpg",
+    link: "I9u1gkl3HzU",
+    video: "Pilates Abs & Balance Ball Workout.mp4"
+  },
+  {
+    nome: "Best Stretching exercises on the Ball",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Best Stretching exercises on the Ball.jpg",
+    link: "fM6-taoe7rk",
+    video: "Best Stretching exercises on the Ball.mp4"
+  },
+  {
+    nome: "Stability Ball Workout for Beginners & Seniors",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Stability Ball Workout for Beginners & Seniors.jpg",
+    link: "1mighBHEt0Y",
+    video: "Stability Ball Workout for Beginners & Seniors.mp4"
+  },
+  {
+    nome: "STABILITY BALL WORKOUT (FULL BODY)",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "STABILITY BALL WORKOUT (FULL BODY).jpg",
+    link: "ClHCkNh8rrQ",
+    video: "STABILITY BALL WORKOUT (FULL BODY).mp4"
+  },
+  {
+    nome: "Stability Ball Core Workout",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Stability Ball Core Workout.jpg",
+    link: "uYL22jCkZ3w",
+    video: "Stability Ball Core Workout.mp4"
+  },
+  {
+    nome: "Exercise Ball Stretch",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Exercise Ball Stretch.jpg",
+    link: "uznqUmKBDVw",
+    video: "Exercise Ball Stretch.mp4"
+  },
+  {
+    nome: "Kids Pilates with Gym Ball",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Kids Pilates with Gym Ball.jpg",
+    link: "Yb1C1QeY2y4",
+    video: "Kids Pilates with Gym Ball.mp4"
+  },
+  {
+    nome: "Kids Pilates with Gym Ball 2",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Kids Pilates with Gym Ball 2.jpg",
+    link: "BzJtlkBDh-8",
+    video: "Kids Pilates with Gym Ball 2.mp4"
+  },
+  {
+    nome: "HIP THRUST WITH BALL",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "HIP THRUST WITH BALL.jpg",
+    link: "R1UyWqsJ3C8",
+    video: "HIP THRUST WITH BALL.mp4"
+  },
+  {
+    nome: "Flow with the ball part 1",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Flow with the ball part 1.jpg",
+    link: "uOA8uPW3eo8",
+    video: "Flow with the ball part 1.mp4"
+  },
+  {
+    nome: "Flow with the ball part 2",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Flow with the ball part 2.jpg",
+    link: "-C3GTD_cmXo",
+    video: "Flow with the ball part 2.mp4"
+  },
+  {
+    nome: "Flow with the ball part 3",
+    descricao: "Posição: Na bola. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Flow with the ball part 3.jpg",
+    link: "Va9E-5fe8Po",
+    video: "Flow with the ball part 3.mp4"
+  },
+  {
+    nome: "Workout Pilates With Overball",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Workout Pilates With Overball.jpg",
+    link: "fzKL9K1ohZY",
+    video: "Workout Pilates With Overball.mp4"
+  },
+  {
+    nome: "Exercise With Overball",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Exercise With Overball.jpg",
+    link: "4Yf3VPROb-4",
+    video: "Exercise With Overball.mp4"
+  },
+  {
+    nome: "Workout With Overball",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Workout With Overball.jpg",
+    link: "7YJ4Ddors3I",
+    video: "Workout With Overball.mp4"
+  },
+  {
+    nome: "Pilates with a Small Ball",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Pilates with a Small Ball.jpg",
+    link: "zA3st_rQhbQ",
+    video: "Pilates with a Small Ball.mp4"
+  },
+  {
+    nome: "WORKOUT WITH MINI BALL",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "WORKOUT WITH MINI BALL.jpg",
+    link: "wOYG5pON50w",
+    video: "WORKOUT WITH MINI BALL.mp4"
+  },
+  {
+    nome: "ABS WORKOUT WITH MINI BALL",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "ABS WORKOUT WITH MINI BALL.jpg",
+    link: "LMpN9rc8_f4",
+    video: "ABS WORKOUT WITH MINI BALL.mp4"
+  },
+  {
+    nome: "Mini Ball Ab Workout",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Mini Ball Ab Workout.jpg",
+    link: "DeXSRHuYkc0",
+    video: "Mini Ball Ab Workout.mp4"
+  },
+  {
+    nome: "Mini Ball Pilates Class",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Mini Ball Pilates Class.jpg",
+    link: "k_Sq0o7vOFU",
+    video: "Mini Ball Pilates Class.mp4"
+  },
+  {
+    nome: "Mini Stability Ball Core Workout",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Mini Stability Ball Core Workout.jpg",
+    link: "U7iz9VOQCKY",
+    video: "Mini Stability Ball Core Workout.mp4"
+  },
+  {
+    nome: "Mini Ball Pilates Workout 1",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Mini Ball Pilates Workout 1.jpg",
+    link: "B8ultjiR5Rg",
+    video: "Mini Ball Pilates Workout 1.mp4"
+  },
+  {
+    nome: "Mini Ball Pilates Workout 2",
+    descricao: "Posição: Variadas. Execução: Diversas.",
+    nivel: "Nível: Variados",
+    local: "Local: Bola",
+    musculosTrabalhados: ["Músculos: Geral"],
+    imagem: "Mini Ball Pilates Workout 2.jpg",
+    link: "7YJ4Ddors3I&t=5s",
+    video: "Mini Ball Pilates Workout 2.mp4"
+  },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
